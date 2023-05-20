@@ -10,12 +10,11 @@ import {
   TileLayer,
 } from "react-leaflet";
 
-export default function Map({ cordenadas, zoom }) {
-  const fillBlueOptions = { fillColor: "blue" };
-  const fillRedOptions = { fillColor: "red" };
+export default function Map({ cordenadas, zoom, color }) {
+  const fillOptions = { fillColor: color };
   return (
     <MapContainer
-      className="w-full h-[40em]"
+      className="w-full h-[50em]"
       center={cordenadas}
       zoom={zoom}
       scrollWheelZoom={true}
@@ -27,8 +26,8 @@ export default function Map({ cordenadas, zoom }) {
       <LayerGroup>
         <Circle
           center={cordenadas}
-          pathOptions={fillRedOptions}
-          radius={1000}
+          pathOptions={fillOptions}
+          radius={5000}
           stroke={false}
         />
       </LayerGroup>
