@@ -3,7 +3,7 @@ import React, { FC, useState } from "react";
 import Autocomplete from "react-autocomplete-select";
 
 const   data = [
-  { localidad: "USAQUÉN", peligro: "yellow", cordenadas:[4.7485, -74.0312], recuento: 9229 },
+  { localidad: "USAQUEN", peligro: "yellow", cordenadas:[4.7485, -74.0312], recuento: 9229 },
   { localidad: "CHAPINERO", peligro: "yellow", cordenadas:[4.6569, -74.0467], recuento: 12023 },
   { localidad: "SANTA FE", peligro: "yellow", cordenadas:[4.5963,	-74.0298], recuento: 7643 },
   { localidad: "SAN CRISTÓBAL", peligro: "Green", cordenadas:[4.5463000000000005,	-74.0883], recuento: 3656 },
@@ -11,8 +11,8 @@ const   data = [
   { localidad: "TUNJUELITO", peligro: "Green", cordenadas:[4.5875,	-74.1407], recuento: 2753 },
   { localidad: "BOSA", peligro: "Green", cordenadas:[4.6305,-74.1945], recuento: 6773 },
   { localidad: "KENNEDY", peligro: "red", cordenadas:[4.6268,-74.1573], recuento: 14366 },
-  { localidad: "FONTIBÓN", peligro: "yellow", cordenadas:[4.6832,	-74.1479], recuento: 9209 },
-  { localidad: "ENGATIVÁ", peligro: "yellow", cordenadas:[4.6832,	-74.1479], recuento: 13669 },
+  { localidad: "FONTIBON", peligro: "yellow", cordenadas:[4.6832,	-74.1479], recuento: 9209 },
+  { localidad: "ENGATIVA", peligro: "yellow", cordenadas:[4.6832,	-74.1479], recuento: 13669 },
   { localidad: "SUBA", peligro: "red", cordenadas:[4.7652, -74.0824], recuento: 14584 },
   { localidad: "BARRIOS UNIDOS", peligro: "Green", cordenadas:[4.6664, -74.084], recuento: 5398 },
   { localidad: "TEUSAQUILLO", peligro: "yellow", cordenadas:[4.6448, -74.0938], recuento: 7949 },
@@ -21,7 +21,7 @@ const   data = [
   { localidad: "PUENTE ARANDA", peligro: "Green", cordenadas:[4.6149000000000004, -74.1227], recuento: 6643 },
   { localidad: "CANDELARIA", peligro: "Green", cordenadas:[4.5939, -74.0739], recuento: 1339 },
   { localidad: "RAFAEL URIBE URIBE", peligro: "Green", cordenadas:[4.5653, -74.1164], recuento: 4488 },
-  { localidad: "CIUDAD BOLÍVAR", peligro: "Green", cordenadas:[4.5066, -74.1539], recuento: 5574 },
+  { localidad: "CIUDAD BOLIVAR", peligro: "Green", cordenadas:[4.5066, -74.1539], recuento: 5574 },
 ]
 
 export default function BarraSuperior({
