@@ -13,14 +13,14 @@ export default function Inferior({ localidad, recuento, color }) {
                 className={
                   color == "red"
                     ? "text-red-600"
-                    : color === "yellow"
+                    : color == "yellow"
                     ? "text-yellow-500"
                     : "text-green-600"
                 }
               >
                 {color == "red"
-                  ? " peligrosa"
-                  : color === "yelow"
+                  ? " Peligrosa"
+                  : color === "yellow"
                   ? "insegura"
                   : "Segura"}
               </span>{" "}

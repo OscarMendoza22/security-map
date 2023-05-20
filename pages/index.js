@@ -40,7 +40,7 @@ export default function Home() {
         <div className="flex flex-col my-5">
           <span className="text-xs flex  ">En colaboracion con :</span>
           <span className="text-xs flex  mt-3">Sebastian David Melo Diaz</span>
-          <span className="text-xs flex  mt-3">Oscar Luiz Mendoza ArizaF</span>
+          <span className="text-xs flex  mt-3">Oscar Luiz Mendoza Ariza</span>
         </div>
       </div>
     </div>
