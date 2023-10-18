@@ -1,0 +1,2092 @@
+[
+  {
+    "localidad": "USAQUÉN",
+    "peligro": "yellow",
+    "cordenadas": [4.7485, -74.0312],
+    "recuento": 9229,
+    "cais": [
+      {
+        "OBJECTID": 96,
+        "Nombre": "CAI VERBENAL",
+        "Dirección": "Calle 187 19-00",
+        "Teléfono": "6730111",
+        "Cuadrante": "E01-07",
+        "Barrio": "MARANTA III SECTOR",
+        "geo_shape": {
+          "coordinates": [-74.03980500139903, 4.764673000859147],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.764673000859147, -74.03980500139903]
+      },
+      {
+        "OBJECTID": 24,
+        "Nombre": "CAI CONTADOR",
+        "Dirección": "Avenida Calle 19 136-35",
+        "Teléfono": "6264494",
+        "Cuadrante": "E01-22",
+        "Barrio": "LOS CEDROS",
+        "geo_shape": {
+          "coordinates": [-74.04678300123385, 4.720810000681808],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.720810000681808, -74.04678300123385]
+      },
+      {
+        "OBJECTID": 141,
+        "Nombre": "CAI UNICENTRO",
+        "Dirección": "Transversal 27 122 - 00",
+        "Teléfono": "6196639",
+        "Cuadrante": "",
+        "Barrio": "SANTA BARBARA OCCIDENTAL",
+        "geo_shape": {
+          "coordinates": [-74.05127800077844, 4.7020210011691],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.7020210011691, -74.05127800077844]
+      },
+      {
+        "OBJECTID": 143,
+        "Nombre": "CAI VILLA NIDIA",
+        "Dirección": "Calle 163 6 A 25",
+        "Teléfono": "6722797",
+        "Cuadrante": "",
+        "Barrio": "LOS CERROS DE SANTA CRIS",
+        "geo_shape": {
+          "coordinates": [-74.02258500139601, 4.7377730014237045],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.7377730014237045, -74.02258500139601]
+      },
+      {
+        "OBJECTID": 21,
+        "Nombre": "CAI CODITO",
+        "Dirección": "Calle 187 A 4-06",
+        "Teléfono": "6718230",
+        "Cuadrante": "E01-01",
+        "Barrio": "HORIZONTES",
+        "geo_shape": {
+          "coordinates": [-74.02427100090529, 4.7637900006088785],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.7637900006088785, -74.02427100090529]
+      },
+      {
+        "OBJECTID": 93,
+        "Nombre": "CAI TOBERIN",
+        "Dirección": "Calle 164 16 C 00",
+        "Teléfono": "6789988",
+        "Cuadrante": "E01-15",
+        "Barrio": "TOBERIN",
+        "geo_shape": {
+          "coordinates": [-74.03962700128443, 4.743582001309164],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.743582001309164, -74.03962700128443]
+      },
+      {
+        "OBJECTID": 48,
+        "Nombre": "CAI LISBOA",
+        "Dirección": "Carrera 7 130-00",
+        "Teléfono": "2747918",
+        "Cuadrante": "E01-17",
+        "Barrio": "GINEBRA NORTE",
+        "geo_shape": {
+          "coordinates": [-74.02858300100405, 4.708337001052598],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.708337001052598, -74.02858300100405]
+      },
+      {
+        "OBJECTID": 134,
+        "Nombre": "CAI SANTA BARBARA",
+        "Dirección": "Calle 116 con Carrera 6",
+        "Teléfono": "6290897",
+        "Cuadrante": "E01-56",
+        "Barrio": "USAQUEN",
+        "geo_shape": {
+          "coordinates": [-74.0312910008783, 4.693138000718988],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.693138000718988, -74.0312910008783]
+      }
+    ]
+  },
+  {
+    "localidad": "CHAPINERO",
+    "peligro": "yellow",
+    "cordenadas": [4.6569, -74.0467],
+    "recuento": 12023,
+    "cais": [
+      {
+        "OBJECTID": 15,
+        "Nombre": "CAI CHAPINERO",
+        "Dirección": "Calle 60 con Carrera 9",
+        "Teléfono": "2177472",
+        "Cuadrante": "E02-05",
+        "Barrio": "CHAPINERO CENTRAL",
+        "geo_shape": {
+          "coordinates": [-74.06234400117404, 4.646080000692279],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.646080000692279, -74.06234400117404]
+      },
+      {
+        "OBJECTID": 36,
+        "Nombre": "CAI GRANADA",
+        "Dirección": "Calle 64 con Carrera 3B",
+        "Teléfono": "2125888",
+        "Cuadrante": "E02-17",
+        "Barrio": "MARIA CRISTINA",
+        "geo_shape": {
+          "coordinates": [-74.05695100068749, 4.646973001403694],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.646973001403694, -74.05695100068749]
+      },
+      {
+        "OBJECTID": 29,
+        "Nombre": "CAI ESTADERO",
+        "Dirección": "Calle 87 con Carrera 11",
+        "Teléfono": "6101819",
+        "Cuadrante": "E02-37",
+        "Barrio": "LA CABRERA",
+        "geo_shape": {
+          "coordinates": [-74.05054500115023, 4.670590001428252],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.670590001428252, -74.05054500115023]
+      },
+      {
+        "OBJECTID": 28,
+        "Nombre": "CAI EL VIRREY",
+        "Dirección": "Calle 87 con Carrera 15",
+        "Teléfono": "2369129",
+        "Cuadrante": "E02-30",
+        "Barrio": "ANTIGUO COUNTRY",
+        "geo_shape": {
+          "coordinates": [-74.05417600132074, 4.672561000590519],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.672561000590519, -74.05417600132074]
+      },
+      {
+        "OBJECTID": 60,
+        "Nombre": "CAI OXY",
+        "Dirección": "Calle 77 con Carrera 11",
+        "Teléfono": "2177555",
+        "Cuadrante": "E02-23",
+        "Barrio": "EL NOGAL",
+        "geo_shape": {
+          "coordinates": [-74.05576100066895, 4.661723000816664],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.661723000816664, -74.05576100066895]
+      },
+      {
+        "OBJECTID": 72,
+        "Nombre": "CAI ROSALES",
+        "Dirección": "Calle 77 con Avenida Circunvalar",
+        "Teléfono": "2116777",
+        "Cuadrante": "",
+        "Barrio": "LOS ROSALES",
+        "geo_shape": {
+          "coordinates": [-74.04852600067375, 4.6569380013884825],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.6569380013884825, -74.04852600067375]
+      },
+      {
+        "OBJECTID": 53,
+        "Nombre": "CAI LOURDES",
+        "Dirección": "Calle 64 con Carrera 10",
+        "Teléfono": "2111269",
+        "Cuadrante": "E02-51",
+        "Barrio": "CHAPINERO NORTE",
+        "geo_shape": {
+          "coordinates": [-74.06181400101468, 4.6499460009080735],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.6499460009080735, -74.06181400101468]
+      },
+      {
+        "OBJECTID": 16,
+        "Nombre": "CAI AV CHILE",
+        "Dirección": "Calle 72 con Carrera7",
+        "Teléfono": "2118355",
+        "Cuadrante": "E02-09",
+        "Barrio": "QUINTA CAMACHO",
+        "geo_shape": {
+          "coordinates": [-74.05545900113134, 4.654953000681246],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.654953000681246, -74.05545900113134]
+      },
+      {
+        "OBJECTID": 119,
+        "Nombre": "CAI LA CALERA",
+        "Dirección": "Km 3.5 Vía La Calera",
+        "Teléfono": "6320840",
+        "Cuadrante": "E02-06",
+        "Barrio": "SANTA INES",
+        "geo_shape": {
+          "coordinates": [-74.02674400073437, 4.675962000946412],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.675962000946412, -74.02674400073437]
+      }
+    ]
+  },
+  {
+    "localidad": "SANTA FE",
+    "peligro": "yellow",
+    "cordenadas": [4.5963, -74.0298],
+    "recuento": 7643,
+    "cais": [
+      {
+        "OBJECTID": 50,
+        "Nombre": "CAI LOS LACHES",
+        "Dirección": "Diagonal 3 8E -00",
+        "Teléfono": "2896756",
+        "Cuadrante": "E03- 38",
+        "Barrio": "LOS LACHES",
+        "geo_shape": {
+          "coordinates": [-74.06891700121798, 4.584433002381956],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.584433002381956, -74.06891700121798]
+      },
+      {
+        "OBJECTID": 76,
+        "Nombre": "CAI SAN DIEGO",
+        "Dirección": "Carrera 7 26-01",
+        "Teléfono": "2860580",
+        "Cuadrante": "E03- 48",
+        "Barrio": "SAN DIEGO",
+        "geo_shape": {
+          "coordinates": [-74.06990500091439, 4.6118240010775935],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.6118240010775935, -74.06990500091439]
+      },
+      {
+        "OBJECTID": 90,
+        "Nombre": "CAI TELECOM",
+        "Dirección": "Carrera 13 con Calle 23",
+        "Teléfono": "3340973",
+        "Cuadrante": "E03-10",
+        "Barrio": "LA ALAMEDA",
+        "geo_shape": {
+          "coordinates": [-74.07321400062494, 4.610518001105674],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.610518001105674, -74.07321400062494]
+      },
+      {
+        "OBJECTID": 57,
+        "Nombre": "CAI MONSERRATE",
+        "Dirección": "Avenida Circunvalar 23 - 00",
+        "Teléfono": "2869408",
+        "Cuadrante": "",
+        "Barrio": "BOSQUE IZQUIERDO",
+        "geo_shape": {
+          "coordinates": [-74.06477700095718, 4.606257001560209],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.606257001560209, -74.06477700095718]
+      },
+      {
+        "OBJECTID": 113,
+        "Nombre": "CAI GIRARDOT",
+        "Dirección": "Carrera 1 con Calle 1 F Bis",
+        "Teléfono": "2801311",
+        "Cuadrante": "E03-31",
+        "Barrio": "GIRARDOT",
+        "geo_shape": {
+          "coordinates": [-74.07533500130859, 4.587194002002434],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.587194002002434, -74.07533500130859]
+      },
+      {
+        "OBJECTID": 94,
+        "Nombre": "CAI TORRES BLANCAS",
+        "Dirección": "Carrera 3 22 - 00",
+        "Teléfono": "2862555",
+        "Cuadrante": "E03-19",
+        "Barrio": "LAS AGUAS",
+        "geo_shape": {
+          "coordinates": [-74.06680600099548, 4.605536001586017],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.605536001586017, -74.06680600099548]
+      },
+      {
+        "OBJECTID": 38,
+        "Nombre": "CAI GUAVIO",
+        "Dirección": "Calle 6 3 E - 67",
+        "Teléfono": "2460908",
+        "Cuadrante": "E03-33",
+        "Barrio": "EL GUAVIO EGIPTO",
+        "geo_shape": {
+          "coordinates": [-74.07053200105037, 4.590407001782523],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.590407001782523, -74.07053200105037]
+      },
+      {
+        "OBJECTID": 81,
+        "Nombre": "CAI SAN VICTORINO",
+        "Dirección": "Calle 10 con Avenida Caracas",
+        "Teléfono": "2864454",
+        "Cuadrante": "",
+        "Barrio": "SANTA INES",
+        "geo_shape": {
+          "coordinates": [-74.08178300098405, 4.601214001925484],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.601214001925484, -74.08178300098405]
+      },
+      {
+        "OBJECTID": 27,
+        "Nombre": "CAI DORADO",
+        "Dirección": "Carrera 8 Este con Calle 1 B",
+        "Teléfono": "3334782",
+        "Cuadrante": "E03-35",
+        "Barrio": "EL CONSUELO",
+        "geo_shape": {
+          "coordinates": [-74.07192300134477, 4.581296001610041],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.581296001610041, -74.07192300134477]
+      },
+      {
+        "OBJECTID": 147,
+        "Nombre": "CAI MIRADOR",
+        "Dirección": "",
+        "Teléfono": "0",
+        "Cuadrante": "",
+        "Barrio": "",
+        "geo_shape": {
+          "coordinates": [-74.06441150118917, 4.591645201865389],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.591645201865389, -74.06441150118917]
+      },
+      {
+        "OBJECTID": 23,
+        "Nombre": "CAI COLSEGUROS",
+        "Dirección": "Avenida Carrera 10 con Calle 17",
+        "Teléfono": "2861133",
+        "Cuadrante": "E03- 42",
+        "Barrio": "LA CAPUCHINA",
+        "geo_shape": {
+          "coordinates": [-74.07480000091863, 4.605212001933182],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.605212001933182, -74.07480000091863]
+      },
+      {
+        "OBJECTID": 46,
+        "Nombre": "CAI LAS CRUCES",
+        "Dirección": "Carrera 8 con Calle 2",
+        "Teléfono": "2804343",
+        "Cuadrante": "E03- 25",
+        "Barrio": "LAS CRUCES",
+        "geo_shape": {
+          "coordinates": [-74.08145200100836, 4.589719002430854],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.589719002430854, -74.08145200100836]
+      },
+      {
+        "OBJECTID": 148,
+        "Nombre": "CAI MONSERRATE",
+        "Dirección": "Avenida Circunvalar 23 - 00",
+        "Teléfono": "0",
+        "Cuadrante": "",
+        "Barrio": "BOSQUE IZQUIERDO",
+        "geo_shape": {
+          "coordinates": [-74.06193100101422, 4.604057001730097],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.604057001730097, -74.06193100101422]
+      }
+    ]
+  },
+  {
+    "localidad": "SAN CRISTÓBAL",
+    "peligro": "Green",
+    "cordenadas": [4.5463000000000005, -74.0883],
+    "recuento": 3656,
+    "cais": [
+      {
+        "OBJECTID": 120,
+        "Nombre": "CAI LA VICTORIA",
+        "Dirección": "Diagonal 46A TRV 3A - 00 Sur",
+        "Teléfono": "3620944",
+        "Cuadrante": "E04-24",
+        "Barrio": "LA VICTORIA",
+        "geo_shape": {
+          "coordinates": [-74.0955850007465, 4.544211001937014],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.544211001937014, -74.0955850007465]
+      },
+      {
+        "OBJECTID": 4,
+        "Nombre": "CAI ALTAMIRA",
+        "Dirección": "Diagonal 48 Sur 13B-20 Este",
+        "Teléfono": "3717461",
+        "Cuadrante": "",
+        "Barrio": "COLMENA I LOS PINARES",
+        "geo_shape": {
+          "coordinates": [-74.08607000082918, 4.536971001711208],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.536971001711208, -74.08607000082918]
+      },
+      {
+        "OBJECTID": 67,
+        "Nombre": "CAI RAMAJAL",
+        "Dirección": "Calle 31 A Sur 10 A- 06 E",
+        "Teléfono": "2067528",
+        "Cuadrante": "",
+        "Barrio": "RAMAJAL",
+        "geo_shape": {
+          "coordinates": [-74.08309300114041, 4.5581370020218515],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.5581370020218515, -74.08309300114041]
+      },
+      {
+        "OBJECTID": 51,
+        "Nombre": "CAI LOS LIBERTADORES",
+        "Dirección": "Calle 56 Sur 14D-03 Este",
+        "Teléfono": "3657914",
+        "Cuadrante": "",
+        "Barrio": "LOS LIBERTADORES",
+        "geo_shape": {
+          "coordinates": [-74.08625600131273, 4.532529001912735],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.532529001912735, -74.08625600131273]
+      },
+      {
+        "OBJECTID": 117,
+        "Nombre": "CAI JUAN REY",
+        "Dirección": "Calle 7A 14 - 00 Sur",
+        "Teléfono": "3655111",
+        "Cuadrante": "E04-39",
+        "Barrio": "LA FLORA",
+        "geo_shape": {
+          "coordinates": [-74.09001100090632, 4.517546001647474],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.517546001647474, -74.09001100090632]
+      },
+      {
+        "OBJECTID": 1,
+        "Nombre": "CAI 20 DE JULIO",
+        "Dirección": "Carrera 7 Calle 20A Sur",
+        "Teléfono": "2092509",
+        "Cuadrante": "E04-50",
+        "Barrio": "20 DE JULIO",
+        "geo_shape": {
+          "coordinates": [-74.09269600061924, 4.572536002335482],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.572536002335482, -74.09269600061924]
+      },
+      {
+        "OBJECTID": 13,
+        "Nombre": "CAI CARCEL DISTRITAL",
+        "Dirección": "Carrera 8 Calle 1C Sur",
+        "Teléfono": "3370376",
+        "Cuadrante": "E04-53",
+        "Barrio": "CALVO SUR",
+        "geo_shape": {
+          "coordinates": [-74.0844590011813, 4.585550001732031],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.585550001732031, -74.0844590011813]
+      },
+      {
+        "OBJECTID": 105,
+        "Nombre": "CAI BELLO HORIZONTE",
+        "Dirección": "Transversal 3 Este 31 - 00 Sur",
+        "Teléfono": "3634652",
+        "Cuadrante": "",
+        "Barrio": "RAMAJAL",
+        "geo_shape": {
+          "coordinates": [-74.09152800071598, 4.559245001856197],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.559245001856197, -74.09152800071598]
+      }
+    ]
+  },
+  {
+    "localidad": "USME",
+    "peligro": "Green",
+    "cordenadas": [4.4766, -74.1033],
+    "recuento": 3021,
+    "cais": [
+      {
+        "OBJECTID": 59,
+        "Nombre": "CAI NUEVO PORVENIR",
+        "Dirección": "Carrera 5I 98 E-00 Sur",
+        "Teléfono": "7624800",
+        "Cuadrante": "E05-23",
+        "Barrio": "ALFONSO LOPEZ",
+        "geo_shape": {
+          "coordinates": [-74.10446300096606, 4.492856001604025],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.492856001604025, -74.10446300096606]
+      },
+      {
+        "OBJECTID": 42,
+        "Nombre": "CAI LA AURORA",
+        "Dirección": "Calle 71 3 C - 00 Sur",
+        "Teléfono": "7684004",
+        "Cuadrante": "E05-06",
+        "Barrio": "LA AURORA",
+        "geo_shape": {
+          "coordinates": [-74.12255100142693, 4.520859002441852],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.520859002441852, -74.12255100142693]
+      },
+      {
+        "OBJECTID": 109,
+        "Nombre": "CAI DANUBIO AZUL",
+        "Dirección": "Transversal 4 E 53B -82 Sur",
+        "Teléfono": "2054898",
+        "Cuadrante": "E05-10",
+        "Barrio": "DANUBIO AZUL",
+        "geo_shape": {
+          "coordinates": [-74.11335400088575, 4.537323001755964],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.537323001755964, -74.11335400088575]
+      },
+      {
+        "OBJECTID": 103,
+        "Nombre": "CAI ANTONIO JOSE DE SUCRE",
+        "Dirección": "Carrera 3B 111 - 00 Sur",
+        "Teléfono": "7632944",
+        "Cuadrante": "",
+        "Barrio": "ANTONIO JOSE DE SUCRE",
+        "geo_shape": {
+          "coordinates": [-74.11480500124912, 4.490705002234904],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.490705002234904, -74.11480500124912]
+      },
+      {
+        "OBJECTID": 146,
+        "Nombre": "CAI YOMASA",
+        "Dirección": "Calle 92 3 E - 00 Sur",
+        "Teléfono": "7734900",
+        "Cuadrante": "E05-30",
+        "Barrio": "EL VIRREY",
+        "geo_shape": {
+          "coordinates": [-74.10989500055314, 4.501624002146797],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.501624002146797, -74.10989500055314]
+      }
+    ]
+  },
+  {
+    "localidad": "TUNJUELITO",
+    "peligro": "Green",
+    "cordenadas": [4.5875, -74.1407],
+    "recuento": 2753,
+    "cais": [
+      {
+        "OBJECTID": 75,
+        "Nombre": "CAI SAN CARLOS",
+        "Dirección": "Diagonal 51 18 B - 00 Sur",
+        "Teléfono": "7144799",
+        "Cuadrante": "",
+        "Barrio": "SAN CARLOS",
+        "geo_shape": {
+          "coordinates": [-74.13011500130563, 4.567361001110157],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.567361001110157, -74.13011500130563]
+      },
+      {
+        "OBJECTID": 95,
+        "Nombre": "CAI VENECIA",
+        "Dirección": "Transversal 44 50B - 00 Sur",
+        "Teléfono": "7119848",
+        "Cuadrante": "E06-25",
+        "Barrio": "FATIMA",
+        "geo_shape": {
+          "coordinates": [-74.13837900108933, 4.5897450009318845],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.5897450009318845, -74.13837900108933]
+      },
+      {
+        "OBJECTID": 140,
+        "Nombre": "CAI TUNAL",
+        "Dirección": "Calle 48 B 24-00 Sur",
+        "Teléfono": "7140985",
+        "Cuadrante": "E06-08",
+        "Barrio": "EL TUNAL ORIENTAL",
+        "geo_shape": {
+          "coordinates": [-74.13046700135038, 4.576621000959278],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.576621000959278, -74.13046700135038]
+      }
+    ]
+  },
+  {
+    "localidad": "BOSA",
+    "peligro": "Green",
+    "cordenadas": [4.6305, -74.1945],
+    "recuento": 6773,
+    "cais": [
+      {
+        "OBJECTID": 79,
+        "Nombre": "CAI SAN JOSE",
+        "Dirección": "Calle 80 79 A - 00 Sur",
+        "Teléfono": "4494437",
+        "Cuadrante": "E07-42",
+        "Barrio": "LA ESPERANZA",
+        "geo_shape": {
+          "coordinates": [-74.20642600135818, 4.611177000918701],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.611177000918701, -74.20642600135818]
+      },
+      {
+        "OBJECTID": 44,
+        "Nombre": "CAI LA ESTACION",
+        "Dirección": "Carrera 77 G 65 - 00 Sur",
+        "Teléfono": "7769093",
+        "Cuadrante": "",
+        "Barrio": "LA ESTACION",
+        "geo_shape": {
+          "coordinates": [-74.18026900111283, 4.597021001019186],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.597021001019186, -74.18026900111283]
+      },
+      {
+        "OBJECTID": 63,
+        "Nombre": "CAI PIAMONTE",
+        "Dirección": "Carrera 78 C 69 B - 00 Sur",
+        "Teléfono": "7755388",
+        "Cuadrante": "E07-67",
+        "Barrio": "PIAMONTE",
+        "geo_shape": {
+          "coordinates": [-74.19006400135191, 4.602031000930765],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.602031000930765, -74.19006400135191]
+      },
+      {
+        "OBJECTID": 121,
+        "Nombre": "CAI LIBERTAD",
+        "Dirección": "Carrera 59 C 88 C - 00 Sur",
+        "Teléfono": "7837267",
+        "Cuadrante": "E07-2",
+        "Barrio": "LIBERTAD",
+        "geo_shape": {
+          "coordinates": [-74.19176300056137, 4.6261300006997885],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.6261300006997885, -74.19176300056137]
+      },
+      {
+        "OBJECTID": 6,
+        "Nombre": "CAI ANTONIA SANTOS",
+        "Dirección": "Carrera 81 F 63 - 00 Sur",
+        "Teléfono": "7778844",
+        "Cuadrante": "",
+        "Barrio": "ANTONIA SANTOS",
+        "geo_shape": {
+          "coordinates": [-74.18677000143373, 4.6123470009142125],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.6123470009142125, -74.18677000143373]
+      },
+      {
+        "OBJECTID": 47,
+        "Nombre": "CAI LAURELES",
+        "Dirección": "Carrera 80 J 72 C - 05 Sur",
+        "Teléfono": "7762197",
+        "Cuadrante": "E07-21",
+        "Barrio": "LAURELES",
+        "geo_shape": {
+          "coordinates": [-74.19772700129943, 4.608196001045428],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.608196001045428, -74.19772700129943]
+      },
+      {
+        "OBJECTID": 100,
+        "Nombre": "CAI VILLA DEL RIO",
+        "Dirección": "Carrera 71 B 57 B - 00 Sur",
+        "Teléfono": "2705062",
+        "Cuadrante": "",
+        "Barrio": "VILLA DEL RIO",
+        "geo_shape": {
+          "coordinates": [-74.16211100102123, 4.599628000732479],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.599628000732479, -74.16211100102123]
+      },
+      {
+        "OBJECTID": 125,
+        "Nombre": "CAI METROVIVIENDA- EL RECREO",
+        "Dirección": "Carrera 97 Calle 69 Sur",
+        "Teléfono": "7234049",
+        "Cuadrante": "",
+        "Barrio": "SAN BERNARDINO XIX",
+        "geo_shape": {
+          "coordinates": [-74.20150000082373, 4.632980000927148],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.632980000927148, -74.20150000082373]
+      },
+      {
+        "OBJECTID": 10,
+        "Nombre": "CAI BRASILIA",
+        "Dirección": "Carrera 87J 49C - 00 Sur",
+        "Teléfono": "7859260",
+        "Cuadrante": "E07-15",
+        "Barrio": "BRASILIA",
+        "geo_shape": {
+          "coordinates": [-74.17892200104882, 4.630001001146126],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.630001001146126, -74.17892200104882]
+      },
+      {
+        "OBJECTID": null,
+        "Nombre": "CAI Campo Verde",
+        "Dirección": "Carrera 94 con Calle 87 sur",
+        "Teléfono": "6014414948",
+        "Cuadrante": "",
+        "Barrio": "",
+        "geo_shape": null,
+        "geo_point_2d": [4.625280714786134, -74.21025862925036168]
+      }
+    ]
+  },
+  {
+    "localidad": "KENNEDY",
+    "peligro": "red",
+    "cordenadas": [4.6268, -74.1573],
+    "recuento": 14366,
+    "cais": [
+      {
+        "OBJECTID": 62,
+        "Nombre": "CAI PATIO BONITO",
+        "Dirección": "Calle 26 Sur con Carrera 87",
+        "Teléfono": "2999952",
+        "Cuadrante": "",
+        "Barrio": "PATIO BONITO I",
+        "geo_shape": {
+          "coordinates": [-74.16095100058754, 4.639058000627073],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.639058000627073, -74.16095100058754]
+      },
+      {
+        "OBJECTID": 123,
+        "Nombre": "CAI MARSELLA",
+        "Dirección": "Carrera 69 D 9 A - 00",
+        "Teléfono": "4476681",
+        "Cuadrante": "E08-43",
+        "Barrio": "MARSELLA",
+        "geo_shape": {
+          "coordinates": [-74.12947400142338, 4.635426001309724],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.635426001309724, -74.12947400142338]
+      },
+      {
+        "OBJECTID": 89,
+        "Nombre": "CAI SOCORRO",
+        "Dirección": "Carrera77 Q 49 - 00 Sur",
+        "Teléfono": "2935102",
+        "Cuadrante": "E08-53",
+        "Barrio": "JUAN PABLO",
+        "geo_shape": {
+          "coordinates": [-74.16625800070551, 4.608042001138244],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.608042001138244, -74.16625800070551]
+      },
+      {
+        "OBJECTID": 131,
+        "Nombre": "CAI ROMA",
+        "Dirección": "Carrera 80 57 - 00 Sur",
+        "Teléfono": "7774811",
+        "Cuadrante": "",
+        "Barrio": "BERTHA HERNANDEZ OSPINA I",
+        "geo_shape": {
+          "coordinates": [-74.17560900115382, 4.613425001163705],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.613425001163705, -74.17560900115382]
+      },
+      {
+        "OBJECTID": 8,
+        "Nombre": "CAI BELLAVISTA",
+        "Dirección": "Carrera 94 con Calle 42A Sur",
+        "Teléfono": "4549769",
+        "Cuadrante": "",
+        "Barrio": "LAS BRISAS",
+        "geo_shape": {
+          "coordinates": [-74.16734600141615, 4.629244001310439],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.629244001310439, -74.16734600141615]
+      },
+      {
+        "OBJECTID": 136,
+        "Nombre": "CAI TECHO",
+        "Dirección": "Carrera 78B 6-05",
+        "Teléfono": "2997800",
+        "Cuadrante": "E08-60",
+        "Barrio": "PIO XII",
+        "geo_shape": {
+          "coordinates": [-74.14731900057075, 4.626064001253496],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.626064001253496, -74.14731900057075]
+      },
+      {
+        "OBJECTID": 138,
+        "Nombre": "CAI TIMIZA",
+        "Dirección": "Calle 43 BIS 73A - 00 Sur",
+        "Teléfono": "4484482",
+        "Cuadrante": "",
+        "Barrio": "LAGO TIMIZA I",
+        "geo_shape": {
+          "coordinates": [-74.15786100108369, 4.607679000586244],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.607679000586244, -74.15786100108369]
+      },
+      {
+        "OBJECTID": 25,
+        "Nombre": "CAI DELICIAS",
+        "Dirección": "Avenida Boyacá con Calle 44 Sur",
+        "Teléfono": "7109606",
+        "Cuadrante": "E08-63",
+        "Barrio": "TUNDAMA II",
+        "geo_shape": {
+          "coordinates": [-74.14489700129491, 4.599149001126306],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.599149001126306, -74.14489700129491]
+      },
+      {
+        "OBJECTID": 107,
+        "Nombre": "CAI CASTILLA",
+        "Dirección": "Diagonal 9A 78C-15",
+        "Teléfono": "2927420",
+        "Cuadrante": "",
+        "Barrio": "URBANIZACION CASTILLA REAL",
+        "geo_shape": {
+          "coordinates": [-74.1411760005713, 4.642368001283045],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.642368001283045, -74.1411760005713]
+      },
+      {
+        "OBJECTID": 12,
+        "Nombre": "CAI CALDAS",
+        "Dirección": "Carrera 80 2 - 00",
+        "Teléfono": "2926298",
+        "Cuadrante": "E08-26",
+        "Barrio": "MARIA PAZ",
+        "geo_shape": {
+          "coordinates": [-74.15401700098312, 4.632131001345442],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.632131001345442, -74.15401700098312]
+      },
+      {
+        "OBJECTID": 127,
+        "Nombre": "CAI ONEIDA",
+        "Dirección": "Avenida Primero de Mayo 73 - 00",
+        "Teléfono": "2935095",
+        "Cuadrante": "",
+        "Barrio": "SUPER MANZANA 1",
+        "geo_shape": {
+          "coordinates": [-74.14361200139206, 4.619572001347592],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.619572001347592, -74.14361200139206]
+      },
+      {
+        "OBJECTID": 139,
+        "Nombre": "CAI TINTAL",
+        "Dirección": "Carrera 87 6D - 00",
+        "Teléfono": "2737936",
+        "Cuadrante": "E08-81",
+        "Barrio": "URBANIZACION TINTALA",
+        "geo_shape": {
+          "coordinates": [-74.15461600072717, 4.64483400078933],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.64483400078933, -74.15461600072717]
+      },
+      {
+        "OBJECTID": 130,
+        "Nombre": "CAI PLAZA DE LAS AMERICAS",
+        "Dirección": "Avenida Boyacá con Avenida Primero de Mayo",
+        "Teléfono": "2904",
+        "Cuadrante": "",
+        "Barrio": "URBANIZACION CARVAJAL",
+        "geo_shape": {
+          "coordinates": [-74.13902200106384, 4.619157001095572],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.619157001095572, -74.13902200106384]
+      },
+      {
+        "OBJECTID": 11,
+        "Nombre": "CAI BRITALIA",
+        "Dirección": "Calle 46 Sur 90 B - 00",
+        "Teléfono": "2934903",
+        "Cuadrante": "",
+        "Barrio": "GRAN BRITALIA I",
+        "geo_shape": {
+          "coordinates": [-74.17122700142431, 4.624365001144724],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.624365001144724, -74.17122700142431]
+      },
+      {
+        "OBJECTID": null,
+        "Nombre": "CAI VILLA CLAUDIA",
+        "Dirección": "Calle 34 Sur 68I -07",
+        "Teléfono": "3195381383",
+        "Cuadrante": "",
+        "Barrio": "",
+        "geo_shape": null,
+        "geo_point_2d": [4.6098470007393075, -74.13560800100777]
+      }
+    ]
+  },
+  {
+    "localidad": "FONTIBÓN",
+    "peligro": "yellow",
+    "cordenadas": [4.6832, -74.1479],
+    "recuento": 9209,
+    "cais": [
+      {
+        "OBJECTID": 73,
+        "Nombre": "CAI SABANA GRANDE",
+        "Dirección": "Carrera 106 con Calle 14-99",
+        "Teléfono": 4217431,
+        "Cuadrante": "E09-32",
+        "Barrio": "ZONA FRANCA",
+        "geo_shape": {
+          "coordinates": [-74.15730900080905, 4.669761000970254],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.669761000970254, -74.15730900080905]
+      },
+      {
+        "OBJECTID": 116,
+        "Nombre": "CAI HAYUELOS",
+        "Dirección": "Carrera 80  22 - 00",
+        "Teléfono": 4260853,
+        "Cuadrante": "E09-05",
+        "Barrio": "LA ESPERANZA",
+        "geo_shape": {
+          "coordinates": [-74.12717500062513, 4.661898000792916],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.661898000792916, -74.12717500062513]
+      },
+      {
+        "OBJECTID": 54,
+        "Nombre": "CAI MACARENA",
+        "Dirección": "Carrera 114  16-99",
+        "Teléfono": 4156061,
+        "Cuadrante": "E09-27",
+        "Barrio": "SANTIAGO",
+        "geo_shape": {
+          "coordinates": [-74.15466700128042, 4.681475000671582],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.681475000671582, -74.15466700128042]
+      },
+      {
+        "OBJECTID": 85,
+        "Nombre": "CAI SANTANDER",
+        "Dirección": "Calle 20D Carrera 96C",
+        "Teléfono": 4159215,
+        "Cuadrante": "E09-17",
+        "Barrio": "VILLEMAR FONTIBON",
+        "geo_shape": {
+          "coordinates": [-74.13797500134456, 4.6711200006882905],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.6711200006882905, -74.13797500134456]
+      },
+      {
+        "OBJECTID": 37,
+        "Nombre": "CAI GRANJAS",
+        "Dirección": "Carrera 68D   21-10",
+        "Teléfono": 4127886,
+        "Cuadrante": "E09-02",
+        "Barrio": "MONTEVIDEO",
+        "geo_shape": {
+          "coordinates": [-74.11491800106421, 4.648424000867748],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.648424000867748, -74.11491800106421]
+      },
+      {
+        "OBJECTID": 97,
+        "Nombre": "CAI VERSALLES",
+        "Dirección": "Carrera 109 con Calle 23-31",
+        "Teléfono": 2987957,
+        "Cuadrante": "E09-20",
+        "Barrio": "VERSALLES",
+        "geo_shape": {
+          "coordinates": [-74.14351200127714, 4.684972000957884],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.684972000957884, -74.14351200127714]
+      },
+      {
+        "OBJECTID": 18,
+        "Nombre": "CAI CIUDAD SALITRE",
+        "Dirección": "Calle 25 68D-00",
+        "Teléfono": 2631016,
+        "Cuadrante": "E09-07",
+        "Barrio": "CIUDAD SALITRE OCCIDENTAL",
+        "geo_shape": {
+          "coordinates": [-74.10798100132149, 4.6559890007926015],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.6559890007926015, -74.10798100132149]
+      },
+      {
+        "OBJECTID": 55,
+        "Nombre": "CAI MODELIA",
+        "Dirección": "Carrera 74  24-00",
+        "Teléfono": 4107676,
+        "Cuadrante": "E09-10",
+        "Barrio": "MODELIA",
+        "geo_shape": {
+          "coordinates": [-74.11869700086521, 4.664866000966014],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.664866000966014, -74.11869700086521]
+      }
+    ]
+  },
+  {
+    "localidad": "ENGATIVÁ",
+    "peligro": "yellow",
+    "cordenadas": [4.6832, -74.1479],
+    "recuento": 13669,
+    "cais": [
+      {
+        "OBJECTID": 87,
+        "Nombre": "CAI SERENA",
+        "Dirección": "Avenida Ciudad de Cali 90-00",
+        "Teléfono": 2245535,
+        "Cuadrante": "E10-46",
+        "Barrio": "LA SERENA",
+        "geo_shape": {
+          "coordinates": [-74.09443700086621, 4.710007000723351],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.710007000723351, -74.09443700086621]
+      },
+      {
+        "OBJECTID": 31,
+        "Nombre": "CAI FERIAS",
+        "Dirección": "Avenida Calle 72 con Carrera 69K",
+        "Teléfono": 6603703,
+        "Cuadrante": "E10-21",
+        "Barrio": "LA ESTRADA",
+        "geo_shape": {
+          "coordinates": [-74.09063700099614, 4.683070001380315],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.683070001380315, -74.09063700099614]
+      },
+      {
+        "OBJECTID": 66,
+        "Nombre": "CAI QUIRIGUA",
+        "Dirección": "Avenida Calle 80   94-00",
+        "Teléfono": 2767763,
+        "Cuadrante": "E10-35",
+        "Barrio": "CIUDAD QUIRIGUA",
+        "geo_shape": {
+          "coordinates": [-74.10786400132196, 4.706439000760099],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.706439000760099, -74.10786400132196]
+      },
+      {
+        "OBJECTID": 104,
+        "Nombre": "CAI BACHUE",
+        "Dirección": "Carrera 97  89 - 00",
+        "Teléfono": 2286621,
+        "Cuadrante": "E10-07",
+        "Barrio": "CIUDAD BACHUE I",
+        "geo_shape": {
+          "coordinates": [-74.10233800099729, 4.716035000815452],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.716035000815452, -74.10233800099729]
+      },
+      {
+        "OBJECTID": 101,
+        "Nombre": "CAI VILLA LUZ",
+        "Dirección": "Carrera 77A  64B-00",
+        "Teléfono": 0,
+        "Cuadrante": "E10-48",
+        "Barrio": "EL ENCANTO",
+        "geo_shape": {
+          "coordinates": [-74.10736100060905, 4.68128900108735],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.68128900108735, -74.10736100060905]
+      },
+      {
+        "OBJECTID": 112,
+        "Nombre": "CAI FLORIDA",
+        "Dirección": "Carrera 90  69B -00",
+        "Teléfono": 2769807,
+        "Cuadrante": "E10-27",
+        "Barrio": "FLORIDA BLANCA",
+        "geo_shape": {
+          "coordinates": [-74.11098800059506, 4.693678001339492],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.693678001339492, -74.11098800059506]
+      },
+      {
+        "OBJECTID": 40,
+        "Nombre": "CAI JABOQUE",
+        "Dirección": "Carrera 110  67A - 00",
+        "Teléfono": 4332033,
+        "Cuadrante": "E10-32",
+        "Barrio": "VILLA DORADO - SAN ANTONIO",
+        "geo_shape": {
+          "coordinates": [-74.12972600135322, 4.705142001203228],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.705142001203228, -74.12972600135322]
+      },
+      {
+        "OBJECTID": 83,
+        "Nombre": "CAI SANTA MARIA DEL LAGO",
+        "Dirección": "Carrera 76   75-00",
+        "Teléfono": 2247211,
+        "Cuadrante": "E10-40",
+        "Barrio": "SANTA MARIA",
+        "geo_shape": {
+          "coordinates": [-74.09650000067381, 4.693403001248327],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.693403001248327, -74.09650000067381]
+      },
+      {
+        "OBJECTID": 144,
+        "Nombre": "CAI VILLAS DE GRANADA",
+        "Dirección": "Carrera 112A   77B-30",
+        "Teléfono": 2295058,
+        "Cuadrante": "E10-48",
+        "Barrio": "VILLAS DE GRANADA I",
+        "geo_shape": {
+          "coordinates": [-74.12297100101023, 4.716922001250168],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.716922001250168, -74.12297100101023]
+      },
+      {
+        "OBJECTID": 2,
+        "Nombre": "CAI ALAMOS",
+        "Dirección": "Transversal 93  64G-00",
+        "Teléfono": 2760835,
+        "Cuadrante": "E10-05",
+        "Barrio": "LA ISABELA",
+        "geo_shape": {
+          "coordinates": [-74.11724400130896, 4.69044300144418],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.69044300144418, -74.11724400130896]
+      },
+      {
+        "OBJECTID": 58,
+        "Nombre": "CAI NORMANDIA",
+        "Dirección": "Avenida Boyacá  52B- 06",
+        "Teléfono": 2955919,
+        "Cuadrante": "E10-32",
+        "Barrio": "NORMANDIA",
+        "geo_shape": {
+          "coordinates": [-74.1072230014397, 4.671024000757881],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.671024000757881, -74.1072230014397]
+      },
+      {
+        "OBJECTID": 19,
+        "Nombre": "CAI CIUDADELA COLSUBSIDIO",
+        "Dirección": "Carrera 111 C   86A-00",
+        "Teléfono": 4350425,
+        "Cuadrante": "E10-27",
+        "Barrio": "URBANIZACION CIUDADELA COLSUBSIDIO",
+        "geo_shape": {
+          "coordinates": [-74.11270900081905, 4.72404800071547],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.72404800071547, -74.11270900081905]
+      },
+      {
+        "OBJECTID": null,
+        "Nombre": "CAI ENGATIVÁ",
+        "Dirección": "Carrera 123 # 64-65",
+        "Teléfono": "3186808876",
+        "Cuadrante": "",
+        "Barrio": "",
+        "geo_shape": "",
+        "geo_point_2d": [4.715, -74.14138889000197]
+      }
+    ]
+  },
+  {
+    "localidad": "SUBA",
+    "peligro": "red",
+    "cordenadas": [4.7652, -74.0824],
+    "recuento": 14584,
+    "cais": [
+      {
+        "OBJECTID": 33,
+        "Nombre": "CAI GAITANA",
+        "Dirección": "Calle 139  118 - 03",
+        "Teléfono": 6895310,
+        "Cuadrante": "E11-24",
+        "Barrio": "LA GAITANA",
+        "geo_shape": {
+          "coordinates": [-74.10681400056501, 4.744690001143453],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.744690001143453, -74.10681400056501]
+      },
+      {
+        "OBJECTID": 110,
+        "Nombre": "CAI EL PINAR",
+        "Dirección": "Carrera 93  152B-50",
+        "Teléfono": 6812338,
+        "Cuadrante": "E11-76",
+        "Barrio": "TUNA ALTA",
+        "geo_shape": {
+          "coordinates": [-74.08308200063317, 4.749719001031905],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.749719001031905, -74.08308200063317]
+      },
+      {
+        "OBJECTID": 124,
+        "Nombre": "CAI MAZUREN",
+        "Dirección": "Calle 164  54 - 00",
+        "Teléfono": 2581012,
+        "Cuadrante": "E11-40",
+        "Barrio": "PORTALES DEL NORTE",
+        "geo_shape": {
+          "coordinates": [-74.05409200104435, 4.74635300139073],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.74635300139073, -74.05409200104435]
+      },
+      {
+        "OBJECTID": 32,
+        "Nombre": "CAI FONTANAR",
+        "Dirección": "Carrera 136A con Calle 145",
+        "Teléfono": 6936376,
+        "Cuadrante": "E11-22",
+        "Barrio": "CONEJERA",
+        "geo_shape": {
+          "coordinates": [-74.11015399990652, 4.753625001293585],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.753625001293585, -74.11015399990652]
+      },
+      {
+        "OBJECTID": 115,
+        "Nombre": "CAI GUAYMARAL",
+        "Dirección": "Carrera  104  234 - 00",
+        "Teléfono": 6760076,
+        "Cuadrante": "E11-36",
+        "Barrio": "CASA BLANCA",
+        "geo_shape": {
+          "coordinates": [-74.07435400013634, 4.818919001411643],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.818919001411643, -74.07435400013634]
+      },
+      {
+        "OBJECTID": 133,
+        "Nombre": "CAI SAN JOSE DE BAVARIA",
+        "Dirección": "Avenida Boyacá   169-00",
+        "Teléfono": 6700066,
+        "Cuadrante": "E11-32",
+        "Barrio": "PORTALES DEL NORTE",
+        "geo_shape": {
+          "coordinates": [-74.06511900144011, 4.75554100061754],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.75554100061754, -74.06511900144011]
+      },
+      {
+        "OBJECTID": 99,
+        "Nombre": "CAI VILLA DEL PRADO",
+        "Dirección": "Calle 172 con Autopista  Norte",
+        "Teléfono": 6716907,
+        "Cuadrante": "E11-10",
+        "Barrio": "VILLA DEL PRADO",
+        "geo_shape": {
+          "coordinates": [-74.0461350010288, 4.752840001066033],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.752840001066033, -74.0461350010288]
+      },
+      {
+        "OBJECTID": 41,
+        "Nombre": "CAI LA ALHAMBRA",
+        "Dirección": "Calle 116 con Carrera 54B",
+        "Teléfono": 6372437,
+        "Cuadrante": "E11-01",
+        "Barrio": "MONACO",
+        "geo_shape": {
+          "coordinates": [-74.06522900111685, 4.701267000572443],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.701267000572443, -74.06522900111685]
+      },
+      {
+        "OBJECTID": 92,
+        "Nombre": "CAI TIERRA LINDA",
+        "Dirección": "Calle 127C 49-00",
+        "Teléfono": 2581128,
+        "Cuadrante": "E11-61",
+        "Barrio": "TIERRA LINDA",
+        "geo_shape": {
+          "coordinates": [-74.05685000142574, 4.711317000879716],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.711317000879716, -74.05685000142574]
+      },
+      {
+        "OBJECTID": 22,
+        "Nombre": "CAI COLINA CAMPESTRE",
+        "Dirección": "Avenida Carrera 58 con Calle 131",
+        "Teléfono": 2268881,
+        "Cuadrante": "E11-15",
+        "Barrio": "CIUDAD JARDIN NORTE",
+        "geo_shape": {
+          "coordinates": [-74.06735400108562, 4.721315000587651],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.721315000587651, -74.06735400108562]
+      },
+      {
+        "OBJECTID": 70,
+        "Nombre": "CAI RINCON",
+        "Dirección": "Carrera 93 con Calle 128C-10",
+        "Teléfono": 6821676,
+        "Cuadrante": "E11-102",
+        "Barrio": "EL RINCON",
+        "geo_shape": {
+          "coordinates": [-74.09159600115385, 4.7236300012244214],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.7236300012244214, -74.09159600115385]
+      },
+      {
+        "OBJECTID": 5,
+        "Nombre": "CAI ANDES",
+        "Dirección": "Avenida Suba con Calle 104",
+        "Teléfono": 2266898,
+        "Cuadrante": "E11-05",
+        "Barrio": "LOS ANDES NORTE",
+        "geo_shape": {
+          "coordinates": [-74.06620300106698, 4.692009000815573],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.692009000815573, -74.06620300106698]
+      },
+      {
+        "OBJECTID": 7,
+        "Nombre": "CAI AURES",
+        "Dirección": "Carrera 101  131A-00",
+        "Teléfono": 6922230,
+        "Cuadrante": "E11-10",
+        "Barrio": "AURES",
+        "geo_shape": {
+          "coordinates": [-74.09653800062756, 4.733411000817852],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.733411000817852, -74.09653800062756]
+      }
+    ]
+  },
+  {
+    "localidad": "BarrioS UNIDOS",
+    "peligro": "Green",
+    "cordenadas": [4.6664, -74.084],
+    "recuento": 5398,
+    "cais": [
+      {
+        "OBJECTID": 3,
+        "Nombre": "CAI ALCAZARES",
+        "Dirección": "Calle 71 Avenida Carrera 24",
+        "Teléfono": 2252171,
+        "Cuadrante": "E12-28",
+        "Barrio": "ALCAZARES",
+        "geo_shape": {
+          "coordinates": [-74.06814400064445, 4.661669001024392],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.661669001024392, -74.06814400064445]
+      },
+      {
+        "OBJECTID": 56,
+        "Nombre": "CAI MODELO",
+        "Dirección": "Avenida Calle 68 con Carrera 56 B-41",
+        "Teléfono": 2257969,
+        "Cuadrante": "E12-76",
+        "Barrio": "POPULAR MODELO",
+        "geo_shape": {
+          "coordinates": [-74.07964900060023, 4.66817200143754],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.66817200143754, -74.07964900060023]
+      },
+      {
+        "OBJECTID": 88,
+        "Nombre": "CAI SIETE DE AGOSTO",
+        "Dirección": "Avenida Carrera 30 con Calle 64",
+        "Teléfono": 6602248,
+        "Cuadrante": "E12-07",
+        "Barrio": "LA PAZ",
+        "geo_shape": {
+          "coordinates": [-74.07714800127854, 4.658550001082517],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.658550001082517, -74.07714800127854]
+      },
+      {
+        "OBJECTID": 64,
+        "Nombre": "CAI POLO CLUB",
+        "Dirección": "Carrera 24 Calle 86A",
+        "Teléfono": 2366986,
+        "Cuadrante": "E12-34",
+        "Barrio": "POLO CLUB",
+        "geo_shape": {
+          "coordinates": [-74.06256100128849, 4.674831000950746],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.674831000950746, -74.06256100128849]
+      },
+      {
+        "OBJECTID": 71,
+        "Nombre": "CAI RIO NEGRO",
+        "Dirección": "Calle 94 Carrera 65A -29",
+        "Teléfono": 2263121,
+        "Cuadrante": "E12-20",
+        "Barrio": "LOS ANDES",
+        "geo_shape": {
+          "coordinates": [-74.0722810007669, 4.684814000866254],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.684814000866254, -74.0722810007669]
+      }
+    ]
+  },
+  {
+    "localidad": "TEUSAQUILLO",
+    "peligro": "yellow",
+    "cordenadas": [4.6448, -74.0938],
+    "recuento": 7949,
+    "cais": [
+      {
+        "OBJECTID": 91,
+        "Nombre": "CAI TEUSAQUILLO",
+        "Dirección": "Carrera 16  34 - 16",
+        "Teléfono": 5628852,
+        "Cuadrante": "E13-39",
+        "Barrio": "TEUSAQUILLO",
+        "geo_shape": {
+          "coordinates": [-74.07123600113988, 4.623232001056806],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.623232001056806, -74.07123600113988]
+      },
+      {
+        "OBJECTID": 135,
+        "Nombre": "CAI SOLEDAD",
+        "Dirección": "Carrera 24  44 - 00",
+        "Teléfono": 2886685,
+        "Cuadrante": "E13-15",
+        "Barrio": "PALERMO",
+        "geo_shape": {
+          "coordinates": [-74.07497400084878, 4.631378000794939],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.631378000794939, -74.07497400084878]
+      },
+      {
+        "OBJECTID": 35,
+        "Nombre": "CAI GALERIAS",
+        "Dirección": "Calle 53   25-01",
+        "Teléfono": 2179190,
+        "Cuadrante": "E13-19",
+        "Barrio": "SEARS",
+        "geo_shape": {
+          "coordinates": [-74.07461000114995, 4.641821001239065],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.641821001239065, -74.07461000114995]
+      },
+      {
+        "OBJECTID": 30,
+        "Nombre": "CAI FEDERMAN",
+        "Dirección": "Carrera 45   58A - 10",
+        "Teléfono": 2222252,
+        "Cuadrante": "E13-07",
+        "Barrio": "NICOLAS DE FEDERMAN",
+        "geo_shape": {
+          "coordinates": [-74.08313700137086, 4.650035001415005],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.650035001415005, -74.08313700137086]
+      },
+      {
+        "OBJECTID": 80,
+        "Nombre": "CAI SAN LUIS",
+        "Dirección": "Calle 60   18 - 50",
+        "Teléfono": 3457366,
+        "Cuadrante": "E13-25",
+        "Barrio": "SAN LUIS",
+        "geo_shape": {
+          "coordinates": [-74.06922700112455, 4.647909001400137],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.647909001400137, -74.06922700112455]
+      },
+      {
+        "OBJECTID": 111,
+        "Nombre": "CAI LA ESMERALDA",
+        "Dirección": "Carrera 54   44C-02",
+        "Teléfono": 2222673,
+        "Cuadrante": "E13-32",
+        "Barrio": "LA ESMERALDA",
+        "geo_shape": {
+          "coordinates": [-74.09065100074241, 4.646207001153015],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.646207001153015, -74.09065100074241]
+      }
+    ]
+  },
+  {
+    "localidad": "LOS MARTIRES",
+    "peligro": "Green",
+    "cordenadas": [4.603, -74.0913],
+    "recuento": 5705,
+    "cais": [
+      {
+        "OBJECTID": 129,
+        "Nombre": "CAI PALOQUEMAO",
+        "Dirección": "Diagonal 17  25 - 00",
+        "Teléfono": 2012451,
+        "Cuadrante": "E14-14",
+        "Barrio": "PALOQUEMAO",
+        "geo_shape": {
+          "coordinates": [-74.08649000131186, 4.612973001004036],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.612973001004036, -74.08649000131186]
+      },
+      {
+        "OBJECTID": 69,
+        "Nombre": "CAI RICAURTE",
+        "Dirección": "Carrera 28 con Calle 10",
+        "Teléfono": 2013344,
+        "Cuadrante": "E14-12",
+        "Barrio": "RICAURTE",
+        "geo_shape": {
+          "coordinates": [-74.0932770013319, 4.609045000627134],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.609045000627134, -74.0932770013319]
+      },
+      {
+        "OBJECTID": 74,
+        "Nombre": "CAI SAMPER MENDOZA",
+        "Dirección": "Carrera 23  22 - 00",
+        "Teléfono": 2696363,
+        "Cuadrante": "E14-20",
+        "Barrio": "SANTA FE",
+        "geo_shape": {
+          "coordinates": [-74.08205600098302, 4.616146000738183],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.616146000738183, -74.08205600098302]
+      },
+      {
+        "OBJECTID": 82,
+        "Nombre": "CAI SANTA ISABEL",
+        "Dirección": "Carrera 27  1C - 00",
+        "Teléfono": 2019299,
+        "Cuadrante": "E14-02",
+        "Barrio": "SANTA ISABEL",
+        "geo_shape": {
+          "coordinates": [-74.10023600118984, 4.598327000991105],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.598327000991105, -74.10023600118984]
+      }
+    ]
+  },
+  {
+    "localidad": "ANTONIO NARIÑO",
+    "peligro": "Green",
+    "cordenadas": [4.5486, -74.1009],
+    "recuento": 2716,
+    "cais": [
+      {
+        "OBJECTID": 102,
+        "Nombre": "CAI VILLA MAYOR",
+        "Dirección": "Calle 36 Sur Carrera 34 B",
+        "Teléfono": 2031392,
+        "Cuadrante": "",
+        "Barrio": "CIUDAD VILLAMAYOR ANTIGUA",
+        "geo_shape": {
+          "coordinates": [-74.12069000104202, 4.591988000946344],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.591988000946344, -74.12069000104202]
+      },
+      {
+        "OBJECTID": 68,
+        "Nombre": "CAI RESTREPO",
+        "Dirección": "Diagonal 12 Sur  16-50",
+        "Teléfono": 2090909,
+        "Cuadrante": "",
+        "Barrio": "RESTREPO",
+        "geo_shape": {
+          "coordinates": [-74.09747900085455, 4.586622001704824],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.586622001704824, -74.09747900085455]
+      },
+      {
+        "OBJECTID": 17,
+        "Nombre": "CAI CIUDAD BERNA",
+        "Dirección": "Calle 11 Sur  10-03",
+        "Teléfono": 2802578,
+        "Cuadrante": "E15-02",
+        "Barrio": "CARACAS",
+        "geo_shape": {
+          "coordinates": [-74.09046700125043, 4.582926002134115],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.582926002134115, -74.09046700125043]
+      },
+      {
+        "OBJECTID": 142,
+        "Nombre": "CAI VALVANERA",
+        "Dirección": "Calle 17 A Sur  24 G 18",
+        "Teléfono": 2093788,
+        "Cuadrante": "",
+        "Barrio": "RESTREPO OCCIDENTAL",
+        "geo_shape": {
+          "coordinates": [-74.10476500140305, 4.589397001071574],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.589397001071574, -74.10476500140305]
+      }
+    ]
+  },
+  {
+    "localidad": "PUENTE ARANDA",
+    "peligro": "Green",
+    "cordenadas": [4.6149000000000004, -74.1227],
+    "recuento": 6643,
+    "cais": [
+      {
+        "OBJECTID": 114,
+        "Nombre": "CAI GORGONZOLA",
+        "Dirección": "Transversal 43  6 - 00",
+        "Teléfono": 4204738,
+        "Cuadrante": "",
+        "Barrio": "SAN FRANCISCO",
+        "geo_shape": {
+          "coordinates": [-74.10628000112047, 4.619104001349398],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.619104001349398, -74.10628000112047]
+      },
+      {
+        "OBJECTID": 137,
+        "Nombre": "CAI TEJAR",
+        "Dirección": "Transversal 53  24 - 00 Sur",
+        "Teléfono": 2303203,
+        "Cuadrante": "",
+        "Barrio": "PROVIVIENDA NORTE",
+        "geo_shape": {
+          "coordinates": [-74.12817600092103, 4.60912700081127],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.60912700081127, -74.12817600092103]
+      },
+      {
+        "OBJECTID": 65,
+        "Nombre": "CAI PUENTE ARANDA",
+        "Dirección": "Carrera 55 con Calle 15",
+        "Teléfono": 4462117,
+        "Cuadrante": "",
+        "Barrio": "PUENTE ARANDA",
+        "geo_shape": {
+          "coordinates": [-74.10847900090448, 4.631195001349055],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.631195001349055, -74.10847900090448]
+      },
+      {
+        "OBJECTID": 84,
+        "Nombre": "CAI SANTA MATILDE",
+        "Dirección": "Calle 8  34 - 00 Sur",
+        "Teléfono": 2021630,
+        "Cuadrante": "",
+        "Barrio": "SANTA MATILDE",
+        "geo_shape": {
+          "coordinates": [-74.10968100057704, 4.600959000957971],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.600959000957971, -74.10968100057704]
+      },
+      {
+        "OBJECTID": 118,
+        "Nombre": "CAI LA ALQUERIA",
+        "Dirección": "Carrera 51G  42 - 00 Sur",
+        "Teléfono": 2046738,
+        "Cuadrante": "",
+        "Barrio": "OSPINA PEREZ SUR",
+        "geo_shape": {
+          "coordinates": [-74.13544700077779, 4.596210001391284],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.596210001391284, -74.13544700077779]
+      },
+      {
+        "OBJECTID": 34,
+        "Nombre": "CAI GALAN",
+        "Dirección": "Carrera 56  3A-96",
+        "Teléfono": 2904666,
+        "Cuadrante": "E16-29",
+        "Barrio": "COLON",
+        "geo_shape": {
+          "coordinates": [-74.1189580012101, 4.620339000745104],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.620339000745104, -74.1189580012101]
+      }
+    ]
+  },
+  {
+    "localidad": "CANDELARIA",
+    "peligro": "Green",
+    "cordenadas": [4.5939, -74.0739],
+    "recuento": 1339,
+    "cais": [
+      {
+        "OBJECTID": 132,
+        "Nombre": "CAI ROSARIO",
+        "Dirección": "Avenida Jimenez  5-00",
+        "Teléfono": 2860744,
+        "Cuadrante": "E17-07",
+        "Barrio": "CENTRO ADMINISTRATIVO",
+        "geo_shape": {
+          "coordinates": [-74.07153400139237, 4.600034002368147],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.600034002368147, -74.07153400139237]
+      },
+      {
+        "OBJECTID": 9,
+        "Nombre": "CAI BOLIVIA",
+        "Dirección": "Avenida Carrera 10 con Calle 7",
+        "Teléfono": 2804466,
+        "Cuadrante": "E17-03",
+        "Barrio": "CENTRO ADMINISTRATIVO",
+        "geo_shape": {
+          "coordinates": [-74.08050900068918, 4.596024001807052],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.596024001807052, -74.08050900068918]
+      }
+    ]
+  },
+  {
+    "localidad": "RAFAEL URIBE URIBE",
+    "peligro": "Green",
+    "cordenadas": [4.5653, -74.1164],
+    "recuento": 4488,
+    "cais": [
+      {
+        "OBJECTID": 128,
+        "Nombre": "CAI PALERMO SUR",
+        "Dirección": "Carrera 2B 52B-06",
+        "Teléfono": 7604317,
+        "Cuadrante": "E18-30",
+        "Barrio": "SANTA LUCIA",
+        "geo_shape": {
+          "coordinates": [-74.1106430008731, 4.542200001829428],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.542200001829428, -74.1106430008731]
+      },
+      {
+        "OBJECTID": 49,
+        "Nombre": "CAI LOMAS",
+        "Dirección": "Transversal 11A  38 - 00Sur",
+        "Teléfono": 2727220,
+        "Cuadrante": "E18-16",
+        "Barrio": "LAS LOMAS",
+        "geo_shape": {
+          "coordinates": [-74.10563300096157, 4.564942001972667],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.564942001972667, -74.10563300096157]
+      },
+      {
+        "OBJECTID": 26,
+        "Nombre": "CAI DIANA TURBAY",
+        "Dirección": "Calle 48X Sur  1E - 00 Este",
+        "Teléfono": 7722157,
+        "Cuadrante": "E18-07",
+        "Barrio": "DIANA TURBAY",
+        "geo_shape": {
+          "coordinates": [-74.10527600068622, 4.545057002279634],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.545057002279634, -74.10527600068622]
+      },
+      {
+        "OBJECTID": 78,
+        "Nombre": "CAI SAN JORGE",
+        "Dirección": "Transversal 16 F con Diagonal 45 F Sur",
+        "Teléfono": 7144220,
+        "Cuadrante": "E18-16",
+        "Barrio": "MARCO FIDEL SUAREZ",
+        "geo_shape": {
+          "coordinates": [-74.12191600092206, 4.569389002001685],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.569389002001685, -74.12191600092206]
+      },
+      {
+        "OBJECTID": 14,
+        "Nombre": "CAI CENTENARIO",
+        "Dirección": "Calle 24  23-00 Sur",
+        "Teléfono": 3733490,
+        "Cuadrante": "E18-16",
+        "Barrio": "CENTENARIO",
+        "geo_shape": {
+          "coordinates": [-74.10710600144017, 4.584499000928985],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.584499000928985, -74.10710600144017]
+      },
+      {
+        "OBJECTID": 20,
+        "Nombre": "CAI CLARET",
+        "Dirección": "Calle 44  27 - 50 Sur",
+        "Teléfono": 2059006,
+        "Cuadrante": "E18-07",
+        "Barrio": "CalleARET",
+        "geo_shape": {
+          "coordinates": [-74.12725700080927, 4.5837370008627545],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.5837370008627545, -74.12725700080927]
+      },
+      {
+        "OBJECTID": 39,
+        "Nombre": "CAI GUSTAVO RESTREPO",
+        "Dirección": "Calle 31A Sur  15B - 30",
+        "Teléfono": 2091111,
+        "Cuadrante": "E18-16",
+        "Barrio": "GUSTAVO RESTREPO",
+        "geo_shape": {
+          "coordinates": [-74.11063500140352, 4.576791001604249],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.576791001604249, -74.11063500140352]
+      },
+      {
+        "OBJECTID": 52,
+        "Nombre": "CAI LOS MOLINOS",
+        "Dirección": "Calle 49 G  5U - 00 Sur",
+        "Teléfono": 7692199,
+        "Cuadrante": "E18-07",
+        "Barrio": "LOS MOLINOS DEL SUR",
+        "geo_shape": {
+          "coordinates": [-74.11835800141995, 4.554625001943122],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.554625001943122, -74.11835800141995]
+      }
+    ]
+  },
+  {
+    "localidad": "CIUDAD BOLÍVAR",
+    "peligro": "Green",
+    "cordenadas": [4.5066, -74.1539],
+    "recuento": 5574,
+    "cais": [
+      {
+        "OBJECTID": 61,
+        "Nombre": "CAI PARAISO",
+        "Dirección": "Calle 71P   27K-04Sur",
+        "Teléfono": 7902883,
+        "Cuadrante": "E19-37",
+        "Barrio": "EL PARAISO",
+        "geo_shape": {
+          "coordinates": [-74.16287000094911, 4.549350000602885],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.549350000602885, -74.16287000094911]
+      },
+      {
+        "OBJECTID": 43,
+        "Nombre": "CAI LA CANDELARIA",
+        "Dirección": "Calle 62   42C-07 Sur",
+        "Teléfono": 7151934,
+        "Cuadrante": "E19-13",
+        "Barrio": "I SECTOR",
+        "geo_shape": {
+          "coordinates": [-74.15255000078122, 4.57257100125156],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.57257100125156, -74.15255000078122]
+      },
+      {
+        "OBJECTID": 86,
+        "Nombre": "CAI SANTO DOMINGO",
+        "Dirección": "Carrera 77C  69A-05 Sur",
+        "Teléfono": 1807304,
+        "Cuadrante": "",
+        "Barrio": "SANTA HELENA",
+        "geo_shape": {
+          "coordinates": [-74.17959700070037, 4.577745000632091],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.577745000632091, -74.17959700070037]
+      },
+      {
+        "OBJECTID": 45,
+        "Nombre": "CAI LA JOYA",
+        "Dirección": "Calle 80   18B - 00 Sur",
+        "Teléfono": 7661001,
+        "Cuadrante": "E19-22",
+        "Barrio": "QUIBA",
+        "geo_shape": {
+          "coordinates": [-74.1435060010005, 4.537793001846409],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.537793001846409, -74.1435060010005]
+      },
+      {
+        "OBJECTID": 77,
+        "Nombre": "CAI SAN FRANCISCO",
+        "Dirección": "Carrera 20C   67-08 Sur",
+        "Teléfono": 7169661,
+        "Cuadrante": "",
+        "Barrio": "SAN FRANCISCO",
+        "geo_shape": {
+          "coordinates": [-74.14904900120979, 4.562871000896791],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.562871000896791, -74.14904900120979]
+      },
+      {
+        "OBJECTID": 106,
+        "Nombre": "CAI ARBORIZADORA ALTA",
+        "Dirección": "Carrera 43A   73-00 Sur",
+        "Teléfono": 7318534,
+        "Cuadrante": "",
+        "Barrio": "BRISAS",
+        "geo_shape": {
+          "coordinates": [-74.1629820007181, 4.568417001244427],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.568417001244427, -74.1629820007181]
+      },
+      {
+        "OBJECTID": 145,
+        "Nombre": "CAI VISTA HERMOSA",
+        "Dirección": "Carrera 18I   70-70 Sur",
+        "Teléfono": 7651121,
+        "Cuadrante": "",
+        "Barrio": "JUAN PABLO",
+        "geo_shape": {
+          "coordinates": [-74.14931900107035, 4.546987002249181],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.546987002249181, -74.14931900107035]
+      },
+      {
+        "OBJECTID": 122,
+        "Nombre": "CAI LUCERO",
+        "Dirección": "Calle 64   17G-52 Sur",
+        "Teléfono": 7658363,
+        "Cuadrante": "E19-28",
+        "Barrio": "MEXICO",
+        "geo_shape": {
+          "coordinates": [-74.14083800117214, 4.553883001899862],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.553883001899862, -74.14083800117214]
+      },
+      {
+        "OBJECTID": 108,
+        "Nombre": "CAI COMPARTIR",
+        "Dirección": "Calle 66   18T-03 Sur",
+        "Teléfono": 7313924,
+        "Cuadrante": "E19-16",
+        "Barrio": "COMPARTIR",
+        "geo_shape": {
+          "coordinates": [-74.14644100055108, 4.557221001149116],
+          "type": "Point"
+        },
+        "geo_point_2d": [4.557221001149116, -74.14644100055108]
+      },
+      {
+        "OBJECTID": null,
+        "Nombre": "CAI PERDOMO",
+        "Dirección": "Carrera 73 # 63A-12",
+        "Teléfono": "3504910683",
+        "Cuadrante": "",
+        "Barrio": "",
+        "geo_shape": null,
+        "geo_point_2d": [4.586111111, -74.16972222000117]
+      }
+    ]
+  }
+]

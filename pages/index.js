@@ -21,7 +21,7 @@ export default function Home() {
           setRecuento={setRecuento}
         />
       </div>
-      <Map cordenadas={cordenada} zoom={zoom} color={color} />
+      <Map cordenadas={cordenada} zoom={zoom} color={color} localidades={localidad} />
       <div>
         <Inferior localidad={localidad} recuento={recuento} color={color} />
       </div>
