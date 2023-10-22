@@ -26,8 +26,8 @@ export default function Map({ cordenadas, zoom, color, localidades }) {
     <icon size="small" variant="extended">
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        width={64}
-        height={64}
+        width={30}
+        height={30}
         viewBox="0 0 16.933 16.933"
       >
         <g
@@ -584,7 +584,7 @@ export default function Map({ cordenadas, zoom, color, localidades }) {
     zoom: 5,
   };
 
-  // [-74.03980500139903, 7]
+  console.log(localidadSelected.length);
 
   return (
     <MapContainer
@@ -598,10 +598,18 @@ export default function Map({ cordenadas, zoom, color, localidades }) {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
       <LayerGroup>
-        <Marker
-          position={[state.lat, state.lng]}
-          icon={customMarkerIcon}
-        ></Marker>
+        {localidadSelected.length != 0 && localidadSelected[0].cais?.map((element) => (
+          <>
+            <Marker
+              position={[
+                element.geo_shape != null && element.geo_shape.coordinates[1],
+                element.geo_shape != null && element.geo_shape.coordinates[0],
+              ]}
+              icon={customMarkerIcon}
+            />
+          </>
+        ))}
+
         <Circle
           center={cordenadas}
           pathOptions={fillOptions}
