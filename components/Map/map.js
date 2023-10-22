@@ -1,27 +1,28 @@
+import React from "react";
+import { divIcon } from "leaflet";
+import Localidades from "../../json/Localidades";
+import { renderToStaticMarkup } from "react-dom/server";
+import "leaflet/dist/leaflet.css";
 import "leaflet/dist/leaflet.css";
 import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css";
 import {
   Circle,
-  FeatureGroup,
   LayerGroup,
   MapContainer,
   Marker,
-  Popup,
-  TileLayer,
+  TileLayer
 } from "react-leaflet";
-import Localidades from "../../json/Localidades";
-import React, { useEffect } from "react";
-import "leaflet/dist/leaflet.css";
-import { renderToStaticMarkup } from "react-dom/server";
-import { divIcon } from "leaflet";
 
 export default function Map({ cordenadas, zoom, color, localidades }) {
+  // Busca dentro del barrio que selecciono la localidad
   const localidadSelected = Localidades.filter(
     (Localidades) => Localidades.localidad == localidades
   );
 
+  // Color de los circulos para el peligro del barrio
   const fillOptions = { fillColor: color };
 
+  // Icono de cais
   const iconMarkup = renderToStaticMarkup(
     <icon size="small" variant="extended">
       <svg
@@ -574,17 +575,11 @@ export default function Map({ cordenadas, zoom, color, localidades }) {
       </svg>
     </icon>
   );
+
+  // Agrega el icono de los cais a un tipo html para renderizar
   const customMarkerIcon = divIcon({
     html: iconMarkup,
   });
-
-  const state = {
-    lat: 4.720810000681808,
-    lng: -74.04678300123385,
-    zoom: 5,
-  };
-
-  
 
   return (
     <MapContainer
@@ -598,18 +593,19 @@ export default function Map({ cordenadas, zoom, color, localidades }) {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
       <LayerGroup>
-        {localidadSelected.length != 0 && localidadSelected[0].cais?.map((element) => (
-          <>
-            <Marker
-              position={[
-                element.geo_shape != null && element.geo_shape.coordinates[1],
-                element.geo_shape != null && element.geo_shape.coordinates[0],
-              ]}
-              icon={customMarkerIcon}
-            />
-          </>
-        ))}
-
+        {/* Render de cais */}
+        {localidadSelected.length != 0 &&
+          localidadSelected[0].cais?.map((element) => (
+            <>
+              <Marker
+                position={[
+                  element.geo_shape != null && element.geo_shape.coordinates[1],
+                  element.geo_shape != null && element.geo_shape.coordinates[0],
+                ]}
+                icon={customMarkerIcon}
+              />
+            </>
+          ))}
         <Circle
           center={cordenadas}
           pathOptions={fillOptions}
