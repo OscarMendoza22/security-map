@@ -1261,7 +1261,7 @@
         "Teléfono": "3186808876",
         "Cuadrante": "",
         "Barrio": "",
-        "geo_shape": "",
+        "geo_shape": null,
         "geo_point_2d": [4.715, -74.14138889000197]
       }
     ]
@@ -1444,7 +1444,7 @@
     ]
   },
   {
-    "localidad": "BarrioS UNIDOS",
+    "localidad": "BARRIOS UNIDOS",
     "peligro": "Green",
     "cordenadas": [4.6664, -74.084],
     "recuento": 5398,

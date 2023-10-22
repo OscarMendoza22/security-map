@@ -584,7 +584,7 @@ export default function Map({ cordenadas, zoom, color, localidades }) {
     zoom: 5,
   };
 
-  console.log(localidadSelected.length);
+  
 
   return (
     <MapContainer
