@@ -1,26 +1,52 @@
 import Logo from "../Logo/Logo";
-import React, { FC, useState } from "react";
-import Autocomplete from "react-autocomplete-select";
-import Localidades from "../../json/Localidades"
-
+import React, { FC, useEffect, useState } from "react";
+import Localidades from "../../json/Localidades";
+import { AutoComplete } from "primereact/autocomplete";
 
 export default function BarraSuperior({
   setCordenada,
   setZoom,
   setColor,
   setLocalidad,
-  setRecuento
+  setRecuento,
 }) {
-
+  // se creo esta variable por que no se actualiza el estado en la primera carga por ende no deja que el usuario busque 
+  var valor = "";
   const [change, setChange] = useState();
+  const [value, setValue] = useState("");
+  const [items, setItems] = useState([]);
 
+  // Guarda las variables que son necesarias para pintar el mapa
   if (change != undefined) {
-    setLocalidad(change.localidad)
-    setCordenada(change.cordenadas);
-    setRecuento(change.recuento)
-    setColor(change.peligro);
-    setZoom(400); 
+    var valueSelected = Localidades.filter(
+      (value) => value.localidad == change
+    );
+    setLocalidad(valueSelected[0].localidad);
+    setCordenada(valueSelected[0].cordenadas);
+    setRecuento(valueSelected[0].recuento);
+    setColor(valueSelected[0].peligro);
+    setZoom(400);
   }
+
+  // busca dentro de la data lo que escribio el usuario
+  const search = (event) => {
+    const coincidencias = [];
+    for (let i = 0; i < Localidades.length; i++) {
+      const texto = Localidades[i].localidad;
+      const textoMinusculas = texto.toLowerCase();
+      const letraMinusculas = valor.toLowerCase();
+      for (let j = 0; j < texto.length; j++) {
+        if (
+          textoMinusculas.substring(j, j + valor.length) === letraMinusculas
+        ) {
+          coincidencias.push(texto);
+        }
+      }
+    }
+    setItems(coincidencias !== "" && coincidencias);
+  };
+
+  // console.log(items);
 
   return (
     <div className="flex items-center justify-between mx-10 mb-10">
@@ -28,92 +54,21 @@ export default function BarraSuperior({
         <Logo />
         <span>Security Map</span>
       </div>
-      <AutocompletePrueba setChange={setChange} />
+      <label className="flex items-center bg-white rounded-2xl h-[3em]">
+        <AutoComplete
+          value={value}
+          suggestions={items}
+          completeMethod={search}
+          onChange={(e) => {
+            valor = e.value;
+            setValue(e.value);
+          }}
+          onSelect={(e) => {
+            setChange(e.value);
+          }}
+        />
+        <span className="material-symbols-outlined mx-2">search</span>
+      </label>
     </div>
   );
 }
-
-const AutocompletePrueba = ({ setChange }) => {
-  const inputRef = React.useRef();
-  return (
-    <>
-      <Autocomplete
-        inputRef={inputRef}
-        searchPattern={"containsString"}
-        placeholder={"Buscar"}
-        maxOptionsLimit={5}
-        getItemValue={(item) => {
-          return `${item.localidad}`;
-        }}
-        optionsJSX={(value) => <li>{value}</li>}
-        itemsData={Localidades}
-        onChange={(item) => {
-          setChange(Localidades.find((el) => el.localidad == item));
-        }}
-        inputJSX={(props) => (
-          <label className="flex items-center bg-white rounded-2xl h-[3em]">
-            <input
-              {...props}
-              required
-              id="inputEnter"
-              className="inputClass rounded-2xl ml-1 h-10 outline-none pl-2"
-            />
-            <span className="material-symbols-outlined mx-2">search</span>
-          </label>
-        )}
-        globalStyle="
-          .___optionsDiv___ {
-          z-index:5000;
-          margin-top: 1em;
-          border-radius: 6px !important;
-          background: rgba(255, 255, 255, 0.8);
-          border: none;
-          }
-          .___optionsDiv___ div{
-          padding: 0;
-          border-bottom: 0;
-          background: transparent
-          }
-          .___optionsDiv___ div:hover {
-          background-color: white; 
-          font-weight: 700;
-          font-size: 20px;
-          }
-          .___optionsDiv___ li {
-          list-style: none; 
-          padding: 2px 20px;
-          font-size: 15px;
-          color: var(--avia-grey-dark);
-          }
-          .___optionsDiv___ div:nth-child(1)::before {
-           content: '';
-           width: 0;
-           height: 0;
-           border-right: 10px solid transparent;
-           border-top: 10px solid transparent;
-           border-left: 10px solid transparent;
-           border-bottom: 10px solid rgba(255, 255, 255, 0.8);
-           position: absolute;
-           top: -20px;
-           left: 10px;
-          }
-          .___optionsDiv___ div:nth-child(1) {
-           padding-top: 10px;
-           border-top-left-radius: 6px 6px;
-           border-top-right-radius: 6px 6px;
-          }
-          .___optionsDiv___ div:last-child {
-           border-bottom-left-radius: 6px 6px;
-           border-bottom-right-radius: 6px 6px;
-           padding-bottom: 10px;
-          }
-          .autocomplete-active {
-           background-color: rgba(146, 138, 138, 0.8) !important; 
-           font-weight: 700;
-           font-size: 20px;
-          }
-          "
-      />
-    </>
-  );
-};
