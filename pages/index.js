@@ -39,6 +39,8 @@ export default function Home() {
           setColor={setColor}
           setLocalidad={setLocalidad}
           setRecuento={setRecuento}
+          candidatura={candidatura}
+          añoSeleccionado={añoSeleccionado}
         />
       </div>
       <div className="flex flex-col items-center">

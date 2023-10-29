@@ -15,7 +15,7 @@
             "No reportados": "29",
             "Total": "2.983",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7485, -74.0312",
+            "CoordenadasUpz": [4.7485, -74.0312],
             "cai": [
               {
                 "Nombre": "CAI NAVARRA",
@@ -142,7 +142,7 @@
             "No reportados": "100",
             "Total": "3.167",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6569, -74.0467",
+            "CoordenadasUpz": [4.6569, -74.0467],
             "cai": [
               {
                 "Nombre": "CAI CHAPINERO",
@@ -233,7 +233,7 @@
             "No reportados": "95",
             "Total": "2.105",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.5963, -74.0298",
+            "CoordenadasUpz": [4.5963, -74.0298],
             "cai": [
               {
                 "Nombre": "CAI LOS LACHES",
@@ -346,7 +346,7 @@
             "No reportados": "93",
             "Total": "1.207",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5463000000000005, -74.0883",
+            "CoordenadasUpz": [4.5463000000000005, -74.0883],
             "cai": [
               {
                 "Nombre": "CAI LA VICTORIA",
@@ -461,7 +461,7 @@
             "No reportados": "151",
             "Total": "795",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.4766, -74.1033",
+            "CoordenadasUpz": [4.4766, -74.1033],
             "cai": [
               {
                 "Nombre": "CAI NUEVO PORVENIR",
@@ -569,7 +569,7 @@
             "No reportados": "93",
             "Total": "953",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5875, -74.1407",
+            "CoordenadasUpz": [4.5875, -74.1407],
             "cai": [
               {
                 "Nombre": "CAI SAN CARLOS",
@@ -624,7 +624,7 @@
             "No reportados": "61",
             "Total": "1.591",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6305, -74.1945",
+            "CoordenadasUpz": [4.6305, -74.1945],
             "cai": [
               {
                 "Nombre": "CAI SAN JOSE",
@@ -745,7 +745,7 @@
             "No reportados": "52",
             "Total": "4.295",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.6268, -74.1573",
+            "CoordenadasUpz": [4.6268, -74.1573],
             "cai": [
               {
                 "Nombre": "CAI PATIO BONITO",
@@ -950,7 +950,7 @@
             "No reportados": "76",
             "Total": "2.179",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6832, -74.1479",
+            "CoordenadasUpz": [4.6832, -74.1479],
             "cai": [
               {
                 "Nombre": "CAI SABANA GRANDE",
@@ -1058,7 +1058,7 @@
             "No reportados": "37",
             "Total": "3.421",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7071000000000005, -74.1072",
+            "CoordenadasUpz": [4.7071000000000005, -74.1072],
             "cai": [
               {
                 "Nombre": "CAI SERENA",
@@ -1201,7 +1201,7 @@
             "No reportados": "42",
             "Total": "3.913",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7652, -74.0824",
+            "CoordenadasUpz": [4.7652, -74.0824],
             "cai": [
               {
                 "Nombre": "CAI GAITANA",
@@ -1326,7 +1326,7 @@
             "No reportados": "70",
             "Total": "1.686",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6664, -74.084",
+            "CoordenadasUpz": [4.6664, -74.084],
             "cai": [
               {
                 "Nombre": "CAI ALCAZARES",
@@ -1383,7 +1383,7 @@
             "No reportados": "95",
             "Total": "2.357",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6448, -74.0938",
+            "CoordenadasUpz": [4.6448, -74.0938],
             "cai": [
               {
                 "Nombre": "CAI TEUSAQUILLO",
@@ -1439,7 +1439,7 @@
             "No reportados": "177",
             "Total": "1.393",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.603, -74.0913",
+            "CoordenadasUpz": [4.603, -74.0913],
             "cai": [
               {
                 "Nombre": "CAI PALOQUEMAO",
@@ -1481,7 +1481,7 @@
             "No reportados": "148",
             "Total": "909",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5486, -74.1009",
+            "CoordenadasUpz": [4.5486, -74.1009],
             "cai": [
               {
                 "Nombre": "CAI VILLA MAYOR",
@@ -1523,7 +1523,7 @@
             "No reportados": "78",
             "Total": "1.573",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6149000000000004, -74.1227",
+            "CoordenadasUpz": [4.6149000000000004, -74.1227],
             "cai": [
               {
                 "Nombre": "CAI GORGONZOLA",
@@ -1605,7 +1605,7 @@
             "No reportados": "116",
             "Total": "500",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5939, -74.0739",
+            "CoordenadasUpz": [4.5939, -74.0739],
             "cai": [
               {
                 "Nombre": "CAI ROSARIO",
@@ -1647,7 +1647,7 @@
             "No reportados": "8",
             "Total": "1.832",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5653, -74.1164",
+            "CoordenadasUpz": [4.5653, -74.1164],
             "cai": [
               {
                 "Nombre": "CAI PALERMO SUR",
@@ -1743,7 +1743,7 @@
             "No reportados": "108",
             "Total": "1.091",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5066, -74.1539",
+            "CoordenadasUpz": [4.5066, -74.1539],
             "cai": [
               {
                 "Nombre": "CAI PARAISO",
@@ -1883,7 +1883,7 @@
             "No reportados": "0",
             "Total": "0",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "?4.0266666666667, -74.245",
+            "CoordenadasUpz": [4.0266666666667, -74.245],
             "hospital": [
               {
                 "Nombre__1": "Centro de Salud San Juan de Sumapaz",
@@ -1919,7 +1919,7 @@
             "No reportados": "78",
             "Total": "5.868",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7485, -74.0312",
+            "CoordenadasUpz": [4.7485, -74.0312],
             "cai": [
               {
                 "Nombre": "CAI NAVARRA",
@@ -2046,7 +2046,7 @@
             "No reportados": "39",
             "Total": "6.919",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6569, -74.0467",
+            "CoordenadasUpz": [4.6569, -74.0467],
             "cai": [
               {
                 "Nombre": "CAI CHAPINERO",
@@ -2137,7 +2137,7 @@
             "No reportados": "77",
             "Total": "5.213",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.5963, -74.0298",
+            "CoordenadasUpz": [4.5963, -74.0298],
             "cai": [
               {
                 "Nombre": "CAI LOS LACHES",
@@ -2250,7 +2250,7 @@
             "No reportados": "75",
             "Total": "1.998",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5463000000000005, -74.0883",
+            "CoordenadasUpz": [4.5463000000000005, -74.0883],
             "cai": [
               {
                 "Nombre": "CAI LA VICTORIA",
@@ -2365,7 +2365,7 @@
             "No reportados": "90",
             "Total": "1.325",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.4766, -74.1033",
+            "CoordenadasUpz": [4.4766, -74.1033],
             "cai": [
               {
                 "Nombre": "CAI NUEVO PORVENIR",
@@ -2473,7 +2473,7 @@
             "No reportados": "84",
             "Total": "1.546",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5875, -74.1407",
+            "CoordenadasUpz": [4.5875, -74.1407],
             "cai": [
               {
                 "Nombre": "CAI SAN CARLOS",
@@ -2528,7 +2528,7 @@
             "No reportados": "83",
             "Total": "2.991",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6305, -74.1945",
+            "CoordenadasUpz": [4.6305, -74.1945],
             "cai": [
               {
                 "Nombre": "CAI SAN JOSE",
@@ -2649,7 +2649,7 @@
             "No reportados": "84",
             "Total": "8.432",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.6268, -74.1573",
+            "CoordenadasUpz": [4.6268, -74.1573],
             "cai": [
               {
                 "Nombre": "CAI PATIO BONITO",
@@ -2854,7 +2854,7 @@
             "No reportados": "67",
             "Total": "4.430",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6832, -74.1479",
+            "CoordenadasUpz": [4.6832, -74.1479],
             "cai": [
               {
                 "Nombre": "CAI SABANA GRANDE",
@@ -2962,7 +2962,7 @@
             "No reportados": "83",
             "Total": "6.981",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7071000000000005, -74.1072",
+            "CoordenadasUpz": [4.7071000000000005, -74.1072],
             "cai": [
               {
                 "Nombre": "CAI SERENA",
@@ -3105,7 +3105,7 @@
             "No reportados": "77",
             "Total": "8.084",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7652, -74.0824",
+            "CoordenadasUpz": [4.7652, -74.0824],
             "cai": [
               {
                 "Nombre": "CAI GAITANA",
@@ -3230,7 +3230,7 @@
             "No reportados": "54",
             "Total": "3.483",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6664, -74.084",
+            "CoordenadasUpz": [4.6664, -74.084],
             "cai": [
               {
                 "Nombre": "CAI ALCAZARES",
@@ -3287,7 +3287,7 @@
             "No reportados": "107",
             "Total": "5.190",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6448, -74.0938",
+            "CoordenadasUpz": [4.6448, -74.0938],
             "cai": [
               {
                 "Nombre": "CAI TEUSAQUILLO",
@@ -3343,7 +3343,7 @@
             "No reportados": "114",
             "Total": "3.110",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.603, -74.0913",
+            "CoordenadasUpz": [4.603, -74.0913],
             "cai": [
               {
                 "Nombre": "CAI PALOQUEMAO",
@@ -3385,7 +3385,7 @@
             "No reportados": "102",
             "Total": "1.565",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5486, -74.1009",
+            "CoordenadasUpz": [4.5486, -74.1009],
             "cai": [
               {
                 "Nombre": "CAI VILLA MAYOR",
@@ -3427,7 +3427,7 @@
             "No reportados": "77",
             "Total": "3.637",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6149000000000004, -74.1227",
+            "CoordenadasUpz": [4.6149000000000004, -74.1227],
             "cai": [
               {
                 "Nombre": "CAI GORGONZOLA",
@@ -3509,7 +3509,7 @@
             "No reportados": "110",
             "Total": "1.135",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5939, -74.0739",
+            "CoordenadasUpz": [4.5939, -74.0739],
             "cai": [
               {
                 "Nombre": "CAI ROSARIO",
@@ -3551,7 +3551,7 @@
             "No reportados": "69",
             "Total": "2.662",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5653, -74.1164",
+            "CoordenadasUpz": [4.5653, -74.1164],
             "cai": [
               {
                 "Nombre": "CAI PALERMO SUR",
@@ -3647,7 +3647,7 @@
             "No reportados": "85",
             "Total": "2.335",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5066, -74.1539",
+            "CoordenadasUpz": [4.5066, -74.1539],
             "cai": [
               {
                 "Nombre": "CAI PARAISO",
@@ -3787,7 +3787,7 @@
             "No reportados": "0",
             "Total": "1",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "?4.0266666666667, -74.245",
+            "CoordenadasUpz": [4.0266666666667, -74.245],
             "hospital": [
               {
                 "Nombre__1": "Centro de Salud San Juan de Sumapaz",
@@ -3823,7 +3823,7 @@
             "No reportados": "35",
             "Total": "9.117",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7485, -74.0312",
+            "CoordenadasUpz": [4.7485, -74.0312],
             "cai": [
               {
                 "Nombre": "CAI NAVARRA",
@@ -3950,7 +3950,7 @@
             "No reportados": "26",
             "Total": "10.204",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6569, -74.0467",
+            "CoordenadasUpz": [4.6569, -74.0467],
             "cai": [
               {
                 "Nombre": "CAI CHAPINERO",
@@ -4041,7 +4041,7 @@
             "No reportados": "68",
             "Total": "7.228",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.5963, -74.0298",
+            "CoordenadasUpz": [4.5963, -74.0298],
             "cai": [
               {
                 "Nombre": "CAI LOS LACHES",
@@ -4160,7 +4160,7 @@
             "No reportados": "73",
             "Total": "2.343",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5463000000000005, -74.0883",
+            "CoordenadasUpz": [4.5463000000000005, -74.0883],
             "cai": [
               {
                 "Nombre": "CAI LA VICTORIA",
@@ -4281,7 +4281,7 @@
             "No reportados": "74",
             "Total": "1.854",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.4766, -74.1033",
+            "CoordenadasUpz": [4.4766, -74.1033],
             "cai": [
               {
                 "Nombre": "CAI NUEVO PORVENIR",
@@ -4389,7 +4389,7 @@
             "No reportados": "99",
             "Total": "2.181",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5875, -74.1407",
+            "CoordenadasUpz": [4.5875, -74.1407],
             "cai": [
               {
                 "Nombre": "CAI SAN CARLOS",
@@ -4456,7 +4456,7 @@
             "No reportados": "29",
             "Total": "4.340",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6305, -74.1945",
+            "CoordenadasUpz": [4.6305, -74.1945],
             "cai": [
               {
                 "Nombre": "CAI SAN JOSE",
@@ -4577,7 +4577,7 @@
             "No reportados": "38",
             "Total": "11.081",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.6268, -74.1573",
+            "CoordenadasUpz": [4.6268, -74.1573],
             "cai": [
               {
                 "Nombre": "CAI PATIO BONITO",
@@ -4788,7 +4788,7 @@
             "No reportados": "36",
             "Total": "6.204",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6832, -74.1479",
+            "CoordenadasUpz": [4.6832, -74.1479],
             "cai": [
               {
                 "Nombre": "CAI SABANA GRANDE",
@@ -4896,7 +4896,7 @@
             "No reportados": "63",
             "Total": "9.667",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7071000000000005, -74.1072",
+            "CoordenadasUpz": [4.7071000000000005, -74.1072],
             "cai": [
               {
                 "Nombre": "CAI SERENA",
@@ -5045,7 +5045,7 @@
             "No reportados": "48",
             "Total": "10.971",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7652, -74.0824",
+            "CoordenadasUpz": [4.7652, -74.0824],
             "cai": [
               {
                 "Nombre": "CAI GAITANA",
@@ -5182,7 +5182,7 @@
             "No reportados": "32",
             "Total": "4.572",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6664, -74.084",
+            "CoordenadasUpz": [4.6664, -74.084],
             "cai": [
               {
                 "Nombre": "CAI ALCAZARES",
@@ -5239,7 +5239,7 @@
             "No reportados": "66",
             "Total": "6.976",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6448, -74.0938",
+            "CoordenadasUpz": [4.6448, -74.0938],
             "cai": [
               {
                 "Nombre": "CAI TEUSAQUILLO",
@@ -5295,7 +5295,7 @@
             "No reportados": "60",
             "Total": "4.412",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.603, -74.0913",
+            "CoordenadasUpz": [4.603, -74.0913],
             "cai": [
               {
                 "Nombre": "CAI PALOQUEMAO",
@@ -5345,7 +5345,7 @@
             "No reportados": "90",
             "Total": "1.804",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5486, -74.1009",
+            "CoordenadasUpz": [4.5486, -74.1009],
             "cai": [
               {
                 "Nombre": "CAI VILLA MAYOR",
@@ -5387,7 +5387,7 @@
             "No reportados": "38",
             "Total": "4.761",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6149000000000004, -74.1227",
+            "CoordenadasUpz": [4.6149000000000004, -74.1227],
             "cai": [
               {
                 "Nombre": "CAI GORGONZOLA",
@@ -5469,7 +5469,7 @@
             "No reportados": "108",
             "Total": "1.573",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5939, -74.0739",
+            "CoordenadasUpz": [4.5939, -74.0739],
             "cai": [
               {
                 "Nombre": "CAI ROSARIO",
@@ -5511,7 +5511,7 @@
             "No reportados": "55",
             "Total": "3.347",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5653, -74.1164",
+            "CoordenadasUpz": [4.5653, -74.1164],
             "cai": [
               {
                 "Nombre": "CAI PALERMO SUR",
@@ -5613,7 +5613,7 @@
             "No reportados": "19",
             "Total": "3.305",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5066, -74.1539",
+            "CoordenadasUpz": [4.5066, -74.1539],
             "cai": [
               {
                 "Nombre": "CAI PARAISO",
@@ -5759,7 +5759,7 @@
             "No reportados": "0",
             "Total": "3",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "?4.0266666666667, -74.245",
+            "CoordenadasUpz": [4.0266666666667, -74.245],
             "hospital": [
               {
                 "Nombre__1": "Centro de Salud San Juan de Sumapaz",
@@ -5795,7 +5795,7 @@
             "No reportados": "53",
             "Total": "10.806",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7485, -74.0312",
+            "CoordenadasUpz": [4.7485, -74.0312],
             "cai": [
               {
                 "Nombre": "CAI NAVARRA",
@@ -5922,7 +5922,7 @@
             "No reportados": "1",
             "Total": "13.551",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.6569, -74.0467",
+            "CoordenadasUpz": [4.6569, -74.0467],
             "cai": [
               {
                 "Nombre": "CAI CHAPINERO",
@@ -6013,7 +6013,7 @@
             "No reportados": "71",
             "Total": "8.099",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.5963, -74.0298",
+            "CoordenadasUpz": [4.5963, -74.0298],
             "cai": [
               {
                 "Nombre": "CAI LOS LACHES",
@@ -6132,7 +6132,7 @@
             "No reportados": "59",
             "Total": "2.857",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5463000000000005, -74.0883",
+            "CoordenadasUpz": [4.5463000000000005, -74.0883],
             "cai": [
               {
                 "Nombre": "CAI LA VICTORIA",
@@ -6253,7 +6253,7 @@
             "No reportados": "91",
             "Total": "2.294",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.4766, -74.1033",
+            "CoordenadasUpz": [4.4766, -74.1033],
             "cai": [
               {
                 "Nombre": "CAI NUEVO PORVENIR",
@@ -6361,7 +6361,7 @@
             "No reportados": "79",
             "Total": "2.551",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5875, -74.1407",
+            "CoordenadasUpz": [4.5875, -74.1407],
             "cai": [
               {
                 "Nombre": "CAI SAN CARLOS",
@@ -6434,7 +6434,7 @@
             "No reportados": "36",
             "Total": "5.225",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6305, -74.1945",
+            "CoordenadasUpz": [4.6305, -74.1945],
             "cai": [
               {
                 "Nombre": "CAI SAN JOSE",
@@ -6561,7 +6561,7 @@
             "No reportados": "17",
             "Total": "13.044",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.6268, -74.1573",
+            "CoordenadasUpz": [4.6268, -74.1573],
             "cai": [
               {
                 "Nombre": "CAI PATIO BONITO",
@@ -6784,7 +6784,7 @@
             "No reportados": "55",
             "Total": "7.803",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6832, -74.1479",
+            "CoordenadasUpz": [4.6832, -74.1479],
             "cai": [
               {
                 "Nombre": "CAI SABANA GRANDE",
@@ -6892,7 +6892,7 @@
             "No reportados": "65",
             "Total": "11.535",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7071000000000005, -74.1072",
+            "CoordenadasUpz": [4.7071000000000005, -74.1072],
             "cai": [
               {
                 "Nombre": "CAI SERENA",
@@ -7053,7 +7053,7 @@
             "No reportados": "65",
             "Total": "12.708",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7652, -74.0824",
+            "CoordenadasUpz": [4.7652, -74.0824],
             "cai": [
               {
                 "Nombre": "CAI GAITANA",
@@ -7196,7 +7196,7 @@
             "No reportados": "43",
             "Total": "5.432",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6664, -74.084",
+            "CoordenadasUpz": [4.6664, -74.084],
             "cai": [
               {
                 "Nombre": "CAI ALCAZARES",
@@ -7253,7 +7253,7 @@
             "No reportados": "44",
             "Total": "8.132",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6448, -74.0938",
+            "CoordenadasUpz": [4.6448, -74.0938],
             "cai": [
               {
                 "Nombre": "CAI TEUSAQUILLO",
@@ -7309,7 +7309,7 @@
             "No reportados": "109",
             "Total": "5.493",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.603, -74.0913",
+            "CoordenadasUpz": [4.603, -74.0913],
             "cai": [
               {
                 "Nombre": "CAI PALOQUEMAO",
@@ -7359,7 +7359,7 @@
             "No reportados": "126",
             "Total": "2.420",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5486, -74.1009",
+            "CoordenadasUpz": [4.5486, -74.1009],
             "cai": [
               {
                 "Nombre": "CAI VILLA MAYOR",
@@ -7401,7 +7401,7 @@
             "No reportados": "38",
             "Total": "5.804",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6149000000000004, -74.1227",
+            "CoordenadasUpz": [4.6149000000000004, -74.1227],
             "cai": [
               {
                 "Nombre": "CAI GORGONZOLA",
@@ -7483,7 +7483,7 @@
             "No reportados": "106",
             "Total": "1.844",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5939, -74.0739",
+            "CoordenadasUpz": [4.5939, -74.0739],
             "cai": [
               {
                 "Nombre": "CAI ROSARIO",
@@ -7525,7 +7525,7 @@
             "No reportados": "55",
             "Total": "3.995",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5653, -74.1164",
+            "CoordenadasUpz": [4.5653, -74.1164],
             "cai": [
               {
                 "Nombre": "CAI PALERMO SUR",
@@ -7633,7 +7633,7 @@
             "No reportados": "36",
             "Total": "4.194",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5066, -74.1539",
+            "CoordenadasUpz": [4.5066, -74.1539],
             "cai": [
               {
                 "Nombre": "CAI PARAISO",
@@ -7779,7 +7779,7 @@
             "No reportados": "0",
             "Total": "0",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "?4.0266666666667, -74.245",
+            "CoordenadasUpz": [4.0266666666667, -74.245],
             "hospital": [
               {
                 "Nombre__1": "Centro de Salud San Juan de Sumapaz",
@@ -7821,7 +7821,7 @@
             "No reportados": "55",
             "Total": "6.144",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7485, -74.0312",
+            "CoordenadasUpz": [4.7485, -74.0312],
             "cai": [
               {
                 "Nombre": "CAI NAVARRA",
@@ -7948,7 +7948,7 @@
             "No reportados": "49",
             "Total": "5.369",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6569, -74.0467",
+            "CoordenadasUpz": [4.6569, -74.0467],
             "cai": [
               {
                 "Nombre": "CAI CHAPINERO",
@@ -8039,7 +8039,7 @@
             "No reportados": "102",
             "Total": "3.921",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5963, -74.0298",
+            "CoordenadasUpz": [4.5963, -74.0298],
             "cai": [
               {
                 "Nombre": "CAI LOS LACHES",
@@ -8158,7 +8158,7 @@
             "No reportados": "72",
             "Total": "2.566",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5463000000000005, -74.0883",
+            "CoordenadasUpz": [4.5463000000000005, -74.0883],
             "cai": [
               {
                 "Nombre": "CAI LA VICTORIA",
@@ -8279,7 +8279,7 @@
             "No reportados": "73",
             "Total": "1.884",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.4766, -74.1033",
+            "CoordenadasUpz": [4.4766, -74.1033],
             "cai": [
               {
                 "Nombre": "CAI NUEVO PORVENIR",
@@ -8387,7 +8387,7 @@
             "No reportados": "75",
             "Total": "1.905",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5875, -74.1407",
+            "CoordenadasUpz": [4.5875, -74.1407],
             "cai": [
               {
                 "Nombre": "CAI SAN CARLOS",
@@ -8460,7 +8460,7 @@
             "No reportados": "30",
             "Total": "4.516",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6305, -74.1945",
+            "CoordenadasUpz": [4.6305, -74.1945],
             "cai": [
               {
                 "Nombre": "CAI SAN JOSE",
@@ -8587,7 +8587,7 @@
             "No reportados": "53",
             "Total": "9.546",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.6268, -74.1573",
+            "CoordenadasUpz": [4.6268, -74.1573],
             "cai": [
               {
                 "Nombre": "CAI PATIO BONITO",
@@ -8810,7 +8810,7 @@
             "No reportados": "37",
             "Total": "5.305",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6832, -74.1479",
+            "CoordenadasUpz": [4.6832, -74.1479],
             "cai": [
               {
                 "Nombre": "CAI SABANA GRANDE",
@@ -8918,7 +8918,7 @@
             "No reportados": "45",
             "Total": "9.006",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7071000000000005, -74.1072",
+            "CoordenadasUpz": [4.7071000000000005, -74.1072],
             "cai": [
               {
                 "Nombre": "CAI SERENA",
@@ -9079,7 +9079,7 @@
             "No reportados": "68",
             "Total": "8.818",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7652, -74.0824",
+            "CoordenadasUpz": [4.7652, -74.0824],
             "cai": [
               {
                 "Nombre": "CAI GAITANA",
@@ -9222,7 +9222,7 @@
             "No reportados": "51",
             "Total": "3.279",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6664, -74.084",
+            "CoordenadasUpz": [4.6664, -74.084],
             "cai": [
               {
                 "Nombre": "CAI ALCAZARES",
@@ -9279,7 +9279,7 @@
             "No reportados": "68",
             "Total": "3.931",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6448, -74.0938",
+            "CoordenadasUpz": [4.6448, -74.0938],
             "cai": [
               {
                 "Nombre": "CAI TEUSAQUILLO",
@@ -9335,7 +9335,7 @@
             "No reportados": "109",
             "Total": "3.362",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.603, -74.0913",
+            "CoordenadasUpz": [4.603, -74.0913],
             "cai": [
               {
                 "Nombre": "CAI PALOQUEMAO",
@@ -9385,7 +9385,7 @@
             "No reportados": "102",
             "Total": "1.909",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5486, -74.1009",
+            "CoordenadasUpz": [4.5486, -74.1009],
             "cai": [
               {
                 "Nombre": "CAI VILLA MAYOR",
@@ -9427,7 +9427,7 @@
             "No reportados": "24",
             "Total": "4.257",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6149000000000004, -74.1227",
+            "CoordenadasUpz": [4.6149000000000004, -74.1227],
             "cai": [
               {
                 "Nombre": "CAI GORGONZOLA",
@@ -9509,7 +9509,7 @@
             "No reportados": "128",
             "Total": "781",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5939, -74.0739",
+            "CoordenadasUpz": [4.5939, -74.0739],
             "cai": [
               {
                 "Nombre": "CAI ROSARIO",
@@ -9551,7 +9551,7 @@
             "No reportados": "87",
             "Total": "2.990",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5653, -74.1164",
+            "CoordenadasUpz": [4.5653, -74.1164],
             "cai": [
               {
                 "Nombre": "CAI PALERMO SUR",
@@ -9659,7 +9659,7 @@
             "No reportados": "34",
             "Total": "3.633",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5066, -74.1539",
+            "CoordenadasUpz": [4.5066, -74.1539],
             "cai": [
               {
                 "Nombre": "CAI PARAISO",
@@ -9805,7 +9805,7 @@
             "No reportados": "0",
             "Total": "2",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "?4.0266666666667, -74.245",
+            "CoordenadasUpz": [4.0266666666667, -74.245],
             "hospital": [
               {
                 "Nombre__1": "Centro de Salud San Juan de Sumapaz",
@@ -9842,7 +9842,7 @@
             "No reportados": "128",
             "Total": "7.734",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7485, -74.0312",
+            "CoordenadasUpz": [4.7485, -74.0312],
             "cai": [
               {
                 "Nombre": "CAI NAVARRA",
@@ -9969,7 +9969,7 @@
             "No reportados": "138",
             "Total": "8.424",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6569, -74.0467",
+            "CoordenadasUpz": [4.6569, -74.0467],
             "cai": [
               {
                 "Nombre": "CAI CHAPINERO",
@@ -10060,7 +10060,7 @@
             "No reportados": "161",
             "Total": "4.813",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5963, -74.0298",
+            "CoordenadasUpz": [4.5963, -74.0298],
             "cai": [
               {
                 "Nombre": "CAI LOS LACHES",
@@ -10179,7 +10179,7 @@
             "No reportados": "109",
             "Total": "3.305",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5463000000000005, -74.0883",
+            "CoordenadasUpz": [4.5463000000000005, -74.0883],
             "cai": [
               {
                 "Nombre": "CAI LA VICTORIA",
@@ -10300,7 +10300,7 @@
             "No reportados": "86",
             "Total": "2.340",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.4766, -74.1033",
+            "CoordenadasUpz": [4.4766, -74.1033],
             "cai": [
               {
                 "Nombre": "CAI NUEVO PORVENIR",
@@ -10408,7 +10408,7 @@
             "No reportados": "147",
             "Total": "2.426",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5875, -74.1407",
+            "CoordenadasUpz": [4.5875, -74.1407],
             "cai": [
               {
                 "Nombre": "CAI SAN CARLOS",
@@ -10481,7 +10481,7 @@
             "No reportados": "124",
             "Total": "6.205",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6305, -74.1945",
+            "CoordenadasUpz": [4.6305, -74.1945],
             "cai": [
               {
                 "Nombre": "CAI SAN JOSE",
@@ -10608,7 +10608,7 @@
             "No reportados": "218",
             "Total": "11.981",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.6268, -74.1573",
+            "CoordenadasUpz": [4.6268, -74.1573],
             "cai": [
               {
                 "Nombre": "CAI PATIO BONITO",
@@ -10831,7 +10831,7 @@
             "No reportados": "198",
             "Total": "7.013",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6832, -74.1479",
+            "CoordenadasUpz": [4.6832, -74.1479],
             "cai": [
               {
                 "Nombre": "CAI SABANA GRANDE",
@@ -10939,7 +10939,7 @@
             "No reportados": "258",
             "Total": "11.734",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7071000000000005, -74.1072",
+            "CoordenadasUpz": [4.7071000000000005, -74.1072],
             "cai": [
               {
                 "Nombre": "CAI SERENA",
@@ -11100,7 +11100,7 @@
             "No reportados": "189",
             "Total": "10.897",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7652, -74.0824",
+            "CoordenadasUpz": [4.7652, -74.0824],
             "cai": [
               {
                 "Nombre": "CAI GAITANA",
@@ -11243,7 +11243,7 @@
             "No reportados": "124",
             "Total": "4.264",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6664, -74.084",
+            "CoordenadasUpz": [4.6664, -74.084],
             "cai": [
               {
                 "Nombre": "CAI ALCAZARES",
@@ -11300,7 +11300,7 @@
             "No reportados": "127",
             "Total": "5.296",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6448, -74.0938",
+            "CoordenadasUpz": [4.6448, -74.0938],
             "cai": [
               {
                 "Nombre": "CAI TEUSAQUILLO",
@@ -11356,7 +11356,7 @@
             "No reportados": "140",
             "Total": "4.364",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.603, -74.0913",
+            "CoordenadasUpz": [4.603, -74.0913],
             "cai": [
               {
                 "Nombre": "CAI PALOQUEMAO",
@@ -11406,7 +11406,7 @@
             "No reportados": "152",
             "Total": "2.482",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5486, -74.1009",
+            "CoordenadasUpz": [4.5486, -74.1009],
             "cai": [
               {
                 "Nombre": "CAI VILLA MAYOR",
@@ -11448,7 +11448,7 @@
             "No reportados": "146",
             "Total": "5.468",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6149000000000004, -74.1227",
+            "CoordenadasUpz": [4.6149000000000004, -74.1227],
             "cai": [
               {
                 "Nombre": "CAI GORGONZOLA",
@@ -11530,7 +11530,7 @@
             "No reportados": "120",
             "Total": "973",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5939, -74.0739",
+            "CoordenadasUpz": [4.5939, -74.0739],
             "cai": [
               {
                 "Nombre": "CAI ROSARIO",
@@ -11572,7 +11572,7 @@
             "No reportados": "117",
             "Total": "4.020",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5653, -74.1164",
+            "CoordenadasUpz": [4.5653, -74.1164],
             "cai": [
               {
                 "Nombre": "CAI PALERMO SUR",
@@ -11680,7 +11680,7 @@
             "No reportados": "129",
             "Total": "5.000",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5066, -74.1539",
+            "CoordenadasUpz": [4.5066, -74.1539],
             "cai": [
               {
                 "Nombre": "CAI PARAISO",
@@ -11826,7 +11826,7 @@
             "No reportados": "0",
             "Total": "1",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "?4.0266666666667, -74.245",
+            "CoordenadasUpz": [4.0266666666667, -74.245],
             "hospital": [
               {
                 "Nombre__1": "Centro de Salud San Juan de Sumapaz",
@@ -11863,7 +11863,7 @@
             "No reportados": "225",
             "Total": "9.314",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7485, -74.0312",
+            "CoordenadasUpz": [4.7485, -74.0312],
             "cai": [
               {
                 "Nombre": "CAI NAVARRA",
@@ -11990,7 +11990,7 @@
             "No reportados": "169",
             "Total": "11.994",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6569, -74.0467",
+            "CoordenadasUpz": [4.6569, -74.0467],
             "cai": [
               {
                 "Nombre": "CAI CHAPINERO",
@@ -12081,7 +12081,7 @@
             "No reportados": "192",
             "Total": "7.639",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.5963, -74.0298",
+            "CoordenadasUpz": [4.5963, -74.0298],
             "cai": [
               {
                 "Nombre": "CAI LOS LACHES",
@@ -12200,7 +12200,7 @@
             "No reportados": "115",
             "Total": "3.671",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5463000000000005, -74.0883",
+            "CoordenadasUpz": [4.5463000000000005, -74.0883],
             "cai": [
               {
                 "Nombre": "CAI LA VICTORIA",
@@ -12321,7 +12321,7 @@
             "No reportados": "122",
             "Total": "3.027",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.4766, -74.1033",
+            "CoordenadasUpz": [4.4766, -74.1033],
             "cai": [
               {
                 "Nombre": "CAI NUEVO PORVENIR",
@@ -12429,7 +12429,7 @@
             "No reportados": "147",
             "Total": "2.766",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5875, -74.1407",
+            "CoordenadasUpz": [4.5875, -74.1407],
             "cai": [
               {
                 "Nombre": "CAI SAN CARLOS",
@@ -12502,7 +12502,7 @@
             "No reportados": "138",
             "Total": "6.824",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6305, -74.1945",
+            "CoordenadasUpz": [4.6305, -74.1945],
             "cai": [
               {
                 "Nombre": "CAI SAN JOSE",
@@ -12636,7 +12636,7 @@
             "No reportados": "291",
             "Total": "14.539",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.6268, -74.1573",
+            "CoordenadasUpz": [4.6268, -74.1573],
             "cai": [
               {
                 "Nombre": "CAI PATIO BONITO",
@@ -12859,7 +12859,7 @@
             "No reportados": "226",
             "Total": "9.190",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6832, -74.1479",
+            "CoordenadasUpz": [4.6832, -74.1479],
             "cai": [
               {
                 "Nombre": "CAI SABANA GRANDE",
@@ -12967,7 +12967,7 @@
             "No reportados": "303",
             "Total": "13.702",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7071000000000005, -74.1072",
+            "CoordenadasUpz": [4.7071000000000005, -74.1072],
             "cai": [
               {
                 "Nombre": "CAI SERENA",
@@ -13128,7 +13128,7 @@
             "No reportados": "245",
             "Total": "14.544",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7652, -74.0824",
+            "CoordenadasUpz": [4.7652, -74.0824],
             "cai": [
               {
                 "Nombre": "CAI GAITANA",
@@ -13271,7 +13271,7 @@
             "No reportados": "160",
             "Total": "5.402",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6664, -74.084",
+            "CoordenadasUpz": [4.6664, -74.084],
             "cai": [
               {
                 "Nombre": "CAI ALCAZARES",
@@ -13328,7 +13328,7 @@
             "No reportados": "176",
             "Total": "7.959",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6448, -74.0938",
+            "CoordenadasUpz": [4.6448, -74.0938],
             "cai": [
               {
                 "Nombre": "CAI TEUSAQUILLO",
@@ -13384,7 +13384,7 @@
             "No reportados": "172",
             "Total": "5.721",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.603, -74.0913",
+            "CoordenadasUpz": [4.603, -74.0913],
             "cai": [
               {
                 "Nombre": "CAI PALOQUEMAO",
@@ -13434,7 +13434,7 @@
             "No reportados": "129",
             "Total": "2.744",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5486, -74.1009",
+            "CoordenadasUpz": [4.5486, -74.1009],
             "cai": [
               {
                 "Nombre": "CAI VILLA MAYOR",
@@ -13476,7 +13476,7 @@
             "No reportados": "178",
             "Total": "6.691",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6149000000000004, -74.1227",
+            "CoordenadasUpz": [4.6149000000000004, -74.1227],
             "cai": [
               {
                 "Nombre": "CAI GORGONZOLA",
@@ -13558,7 +13558,7 @@
             "No reportados": "96",
             "Total": "1.327",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5939, -74.0739",
+            "CoordenadasUpz": [4.5939, -74.0739],
             "cai": [
               {
                 "Nombre": "CAI ROSARIO",
@@ -13600,7 +13600,7 @@
             "No reportados": "145",
             "Total": "4.488",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5653, -74.1164",
+            "CoordenadasUpz": [4.5653, -74.1164],
             "cai": [
               {
                 "Nombre": "CAI PALERMO SUR",
@@ -13708,7 +13708,7 @@
             "No reportados": "135",
             "Total": "5.576",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5066, -74.1539",
+            "CoordenadasUpz": [4.5066, -74.1539],
             "cai": [
               {
                 "Nombre": "CAI PARAISO",
@@ -13854,7 +13854,7 @@
             "No reportados": "0",
             "Total": "0",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "?4.0266666666667, -74.245",
+            "CoordenadasUpz": [4.0266666666667, -74.245],
             "hospital": [
               {
                 "Nombre__1": "Centro de Salud San Juan de Sumapaz",
@@ -13891,7 +13891,7 @@
             "No reportados": "145",
             "Total": "5.746",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.7485, -74.0312",
+            "CoordenadasUpz": [4.7485, -74.0312],
             "cai": [
               {
                 "Nombre": "CAI NAVARRA",
@@ -14024,7 +14024,7 @@
             "No reportados": "141",
             "Total": "6.857",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6569, -74.0467",
+            "CoordenadasUpz": [4.6569, -74.0467],
             "cai": [
               {
                 "Nombre": "CAI CHAPINERO",
@@ -14115,7 +14115,7 @@
             "No reportados": "142",
             "Total": "5.220",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.5963, -74.0298",
+            "CoordenadasUpz": [4.5963, -74.0298],
             "cai": [
               {
                 "Nombre": "CAI LOS LACHES",
@@ -14234,7 +14234,7 @@
             "No reportados": "89",
             "Total": "2.152",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5463000000000005, -74.0883",
+            "CoordenadasUpz": [4.5463000000000005, -74.0883],
             "cai": [
               {
                 "Nombre": "CAI LA VICTORIA",
@@ -14361,7 +14361,7 @@
             "No reportados": "65",
             "Total": "2.060",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.4766, -74.1033",
+            "CoordenadasUpz": [4.4766, -74.1033],
             "cai": [
               {
                 "Nombre": "CAI NUEVO PORVENIR",
@@ -14475,7 +14475,7 @@
             "No reportados": "75",
             "Total": "1.282",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5875, -74.1407",
+            "CoordenadasUpz": [4.5875, -74.1407],
             "cai": [
               {
                 "Nombre": "CAI SAN CARLOS",
@@ -14554,7 +14554,7 @@
             "No reportados": "114",
             "Total": "3.582",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.6305, -74.1945",
+            "CoordenadasUpz": [4.6305, -74.1945],
             "cai": [
               {
                 "Nombre": "CAI SAN JOSE",
@@ -14694,7 +14694,7 @@
             "No reportados": "180",
             "Total": "10.703",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.6268, -74.1573",
+            "CoordenadasUpz": [4.6268, -74.1573],
             "cai": [
               {
                 "Nombre": "CAI PATIO BONITO",
@@ -14917,7 +14917,7 @@
             "No reportados": "139",
             "Total": "5.760",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6832, -74.1479",
+            "CoordenadasUpz": [4.6832, -74.1479],
             "cai": [
               {
                 "Nombre": "CAI SABANA GRANDE",
@@ -15025,7 +15025,7 @@
             "No reportados": "213",
             "Total": "9.952",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7071000000000005, -74.1072",
+            "CoordenadasUpz": [4.7071000000000005, -74.1072],
             "cai": [
               {
                 "Nombre": "CAI SERENA",
@@ -15186,7 +15186,7 @@
             "No reportados": "234",
             "Total": "11.039",
             "Categorizacion": "Rojo",
-            "CoordenadasUpz": "4.7652, -74.0824",
+            "CoordenadasUpz": [4.7652, -74.0824],
             "cai": [
               {
                 "Nombre": "CAI GAITANA",
@@ -15329,7 +15329,7 @@
             "No reportados": "149",
             "Total": "4.958",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6664, -74.084",
+            "CoordenadasUpz": [4.6664, -74.084],
             "cai": [
               {
                 "Nombre": "CAI ALCAZARES",
@@ -15386,7 +15386,7 @@
             "No reportados": "130",
             "Total": "6.936",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6448, -74.0938",
+            "CoordenadasUpz": [4.6448, -74.0938],
             "cai": [
               {
                 "Nombre": "CAI TEUSAQUILLO",
@@ -15442,7 +15442,7 @@
             "No reportados": "202",
             "Total": "4.585",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.603, -74.0913",
+            "CoordenadasUpz": [4.603, -74.0913],
             "cai": [
               {
                 "Nombre": "CAI PALOQUEMAO",
@@ -15492,7 +15492,7 @@
             "No reportados": "121",
             "Total": "2.097",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5486, -74.1009",
+            "CoordenadasUpz": [4.5486, -74.1009],
             "cai": [
               {
                 "Nombre": "CAI VILLA MAYOR",
@@ -15542,7 +15542,7 @@
             "No reportados": "126",
             "Total": "5.334",
             "Categorizacion": "Amarillo",
-            "CoordenadasUpz": "4.6149000000000004, -74.1227",
+            "CoordenadasUpz": [4.6149000000000004, -74.1227],
             "cai": [
               {
                 "Nombre": "CAI GORGONZOLA",
@@ -15624,7 +15624,7 @@
             "No reportados": "77",
             "Total": "792",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5939, -74.0739",
+            "CoordenadasUpz": [4.5939, -74.0739],
             "cai": [
               {
                 "Nombre": "CAI ROSARIO",
@@ -15666,7 +15666,7 @@
             "No reportados": "86",
             "Total": "3.542",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5653, -74.1164",
+            "CoordenadasUpz": [4.5653, -74.1164],
             "cai": [
               {
                 "Nombre": "CAI PALERMO SUR",
@@ -15774,7 +15774,7 @@
             "No reportados": "122",
             "Total": "4.022",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "4.5066, -74.1539",
+            "CoordenadasUpz": [4.5066, -74.1539],
             "cai": [
               {
                 "Nombre": "CAI PARAISO",
@@ -15926,7 +15926,7 @@
             "No reportados": "0",
             "Total": "2",
             "Categorizacion": "Verde",
-            "CoordenadasUpz": "?4.0266666666667, -74.245",
+            "CoordenadasUpz": [4.0266666666667, -74.245],
             "hospital": [
               {
                 "Nombre__1": "Centro de Salud San Juan de Sumapaz",

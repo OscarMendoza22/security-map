@@ -1,6 +1,6 @@
 import Logo from "../Logo/Logo";
 import React, { FC, useEffect, useState } from "react";
-import Localidades from "../../json/Localidades";
+import LocalidadesV2 from "json/LocalidadesV2.json";
 import { AutoComplete } from "primereact/autocomplete";
 
 export default function BarraSuperior({
@@ -9,30 +9,51 @@ export default function BarraSuperior({
   setColor,
   setLocalidad,
   setRecuento,
+  candidatura,
+  añoSeleccionado,
 }) {
-  // se creo esta variable por que no se actualiza el estado en la primera carga por ende no deja que el usuario busque 
+  // se creo esta variable por que no se actualiza el estado en la primera carga por ende no deja que el usuario busque
   var valor = "";
   const [change, setChange] = useState();
   const [value, setValue] = useState("");
   const [items, setItems] = useState([]);
 
+  let dataSelected
+
+  if(candidatura == 0){
+    dataSelected = LocalidadesV2.CandidaturaUno.años.filter(
+      (x) => x.año === añoSeleccionado
+    )
+  }else{
+    dataSelected = LocalidadesV2.CandidaturaDos.años.filter(
+      (x) => x.año === añoSeleccionado
+    )
+  }
+
+
   // Guarda las variables que son necesarias para pintar el mapa
   if (change != undefined) {
-    var valueSelected = Localidades.filter(
-      (value) => value.localidad == change
+
+    if(dataSelected.length > 0){
+    var valueSelected =  dataSelected[0].centrosEnLocalidades.filter(
+      (value) => value.LOCALIDADES == change
     );
-    setLocalidad(valueSelected[0].localidad);
-    setCordenada(valueSelected[0].cordenadas);
-    setRecuento(valueSelected[0].recuento);
-    setColor(valueSelected[0].peligro);
-    setZoom(400);
+
+    console.log(valueSelected)
+    setLocalidad(valueSelected[0].LOCALIDADES);
+    setCordenada(valueSelected[0].CoordenadasUpz);
+    // setRecuento(valueSelected[0].recuento);
+    setColor(valueSelected[0].Categorizacion);
+    setZoom(400);}
   }
+
+
 
   // busca dentro de la data lo que escribio el usuario
   const search = (event) => {
     const coincidencias = [];
-    for (let i = 0; i < Localidades.length; i++) {
-      const texto = Localidades[i].localidad;
+    for (let i = 0; i < dataSelected[0].centrosEnLocalidades.length; i++) {
+      const texto = dataSelected[0].centrosEnLocalidades[i].LOCALIDADES;
       const textoMinusculas = texto.toLowerCase();
       const letraMinusculas = valor.toLowerCase();
       for (let j = 0; j < texto.length; j++) {
