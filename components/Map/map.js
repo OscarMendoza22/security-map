@@ -1,6 +1,7 @@
 import React from "react";
 import { divIcon } from "leaflet";
 import Localidades from "../../json/Localidades";
+import LocalidadesV2 from "../../json/LocalidadesV2";
 import { renderToStaticMarkup } from "react-dom/server";
 import "leaflet/dist/leaflet.css";
 import "leaflet/dist/leaflet.css";
@@ -10,14 +11,41 @@ import {
   LayerGroup,
   MapContainer,
   Marker,
-  TileLayer
+  TileLayer,
 } from "react-leaflet";
 
-export default function Map({ cordenadas, zoom, color, localidades }) {
+export default function Map({
+  cordenadas,
+  zoom,
+  color,
+  localidades,
+  candidatura,
+  añoSeleccionado,
+}) {
   // Busca dentro del barrio que selecciono la localidad
-  const localidadSelected = Localidades.filter(
-    (Localidades) => Localidades.localidad == localidades
-  );
+  let localidadSelected;
+
+  if (candidatura == 0) {
+    let buscarAño = LocalidadesV2.CandidaturaUno.años.filter(
+      (x) => x.año === añoSeleccionado
+    );
+
+    localidadSelected =
+      buscarAño.length > 0 &&
+      buscarAño[0].centrosEnLocalidades.filter(
+        (Localidades) => Localidades.LOCALIDADES == localidades
+      );
+  } else {
+    let buscarAño = LocalidadesV2.CandidaturaDos.años.filter(
+      (x) => x.año == añoSeleccionado
+    );
+
+    localidadSelected =
+      buscarAño.length > 0 &&
+      buscarAño[0].centrosEnLocalidades.filter(
+        (Localidades) => Localidades.LOCALIDADES == localidades
+      );
+  }
 
   // Color de los circulos para el peligro del barrio
   const fillOptions = { fillColor: color };
@@ -594,13 +622,13 @@ export default function Map({ cordenadas, zoom, color, localidades }) {
       />
       <LayerGroup>
         {/* Render de cais */}
-        {localidadSelected.length != 0 &&
-          localidadSelected[0].cais?.map((element) => (
+        {localidadSelected.length > 0 &&
+          localidadSelected[0].cai?.map((element) => (
             <>
               <Marker
                 position={[
-                  element.geo_shape != null && element.geo_shape.coordinates[1],
-                  element.geo_shape != null && element.geo_shape.coordinates[0],
+                  element.CoordenadasCai != null && element.CoordenadasCai[0],
+                  element.CoordenadasCai != null && element.CoordenadasCai[1],
                 ]}
                 icon={customMarkerIcon}
               />
