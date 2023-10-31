@@ -39,7 +39,7 @@ export default function BarraSuperior({
       (value) => value.LOCALIDADES == change
     );
 
-    console.log(valueSelected)
+    // console.log(valueSelected)
     setLocalidad(valueSelected[0].LOCALIDADES);
     setCordenada(valueSelected[0].CoordenadasUpz);
     // setRecuento(valueSelected[0].recuento);

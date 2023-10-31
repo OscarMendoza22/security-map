@@ -11,7 +11,7 @@ export default function Home() {
   const [localidad, setLocalidad] = useState();
   const [recuento, setRecuento] = useState();
   // candidaturaUno = 0 candidaturaDOS = 1 
-  
+
   const [candidatura, setCandidatura] = useState(1);
   const [añoSeleccionado, setAñoSeleccionado] = useState("2023");
 
@@ -45,22 +45,22 @@ export default function Home() {
       </div>
       <div className="flex flex-col items-center">
         <div className="flex gap-10 my-10">
-          <span onClick={() => setCandidatura(0)}>Candidatura 1</span>
-          <span onClick={() => setCandidatura(1)}>Candidatura 2</span>
+          <button class="bg-slate-400 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-l" onClick={() => setCandidatura(0)}>Primera Candidatura</button>
+          <button class="bg-slate-400 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-l" onClick={() => setCandidatura(1)}>Segunda Candidatura</button>
         </div>
         <div className="flex gap-10">
-          {candidatura == 0 ? 
-              LocalidadesV2.CandidaturaUno.años.map((e) => (
-                <>
-                  <span onClick={() => setAñoSeleccionado(e.año)}>{e.año}</span>
-                </>
-              )):
-              LocalidadesV2.CandidaturaDos.años.map((e) => (
-                <>
-                  <span onClick={() => setAñoSeleccionado(e.año)}>{e.año}</span>
-                </>
-              ))
-           }
+          {candidatura == 0 ?
+            LocalidadesV2.CandidaturaUno.años.map((e) => (
+              <>
+                <span onClick={() => setAñoSeleccionado(e.año)}>{e.año}</span>
+              </>
+            )) :
+            LocalidadesV2.CandidaturaDos.años.map((e) => (
+              <>
+                <span onClick={() => setAñoSeleccionado(e.año)}>{e.año}</span>
+              </>
+            ))
+          }
         </div>
         <div></div>
         <Map
@@ -73,7 +73,7 @@ export default function Home() {
         />
       </div>
       <div>
-        <Inferior localidad={localidad} recuento={recuento} color={color} />
+        <Inferior candidatura={candidatura} localidad={localidad} recuento={recuento} color={color} />
       </div>
       <div>
         <span className="text-xs flex justify-center my-10">
